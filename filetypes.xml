@@ -19,6 +19,7 @@
       <mapping pattern="bin/docker" type="PLAIN_TEXT" />
       <mapping ext="json1" type="PLAIN_TEXT" />
       <mapping ext="fixture" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="TOML file" />
     </extensionMap>
   </component>
 </application>
