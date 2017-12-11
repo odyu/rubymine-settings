@@ -21,6 +21,8 @@
       <mapping ext="json1" type="PLAIN_TEXT" />
       <mapping ext="fixture" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="TOML file" />
+      <mapping pattern=".standalone_migrations" type="YAML" />
+      <mapping pattern=".mysql57.standalone_migrations" type="YAML" />
     </extensionMap>
   </component>
 </application>
