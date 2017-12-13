@@ -18,6 +18,7 @@
       <mapping pattern="bin/start" type="PLAIN_TEXT" />
       <mapping pattern="bin/docker" type="PLAIN_TEXT" />
       <mapping pattern=".pea.standalone_migrations" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="json1" type="PLAIN_TEXT" />
       <mapping ext="fixture" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="TOML file" />
