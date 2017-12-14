@@ -14,13 +14,17 @@
       <mapping pattern="Dockerfile-mysql57" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="start" type="PLAIN_TEXT" />
+      <mapping pattern="scripts/Makefile" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern="bin/start" type="PLAIN_TEXT" />
       <mapping pattern="bin/docker" type="PLAIN_TEXT" />
       <mapping pattern=".pea.standalone_migrations" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
+      <mapping ext="3-node8" type="PLAIN_TEXT" />
       <mapping ext="json1" type="PLAIN_TEXT" />
       <mapping ext="fixture" type="PLAIN_TEXT" />
+      <mapping ext="3/dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="3-node8/dockerfile" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="TOML file" />
       <mapping pattern=".standalone_migrations" type="YAML" />
       <mapping pattern=".mysql57.standalone_migrations" type="YAML" />
