@@ -23,6 +23,7 @@
       <mapping pattern="bin/docker" type="PLAIN_TEXT" />
       <mapping pattern="app/rails/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="senju/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="DockerVersion" type="PLAIN_TEXT" />
       <mapping pattern=".pea.standalone_migrations" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="3-node8" type="PLAIN_TEXT" />
