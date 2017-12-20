@@ -16,20 +16,22 @@
       <mapping pattern="Version" type="PLAIN_TEXT" />
       <mapping pattern="start" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
-      <mapping pattern=".erdconfig" type="PLAIN_TEXT" />
       <mapping pattern="rails/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="scripts/Makefile" type="PLAIN_TEXT" />
       <mapping pattern="bin/start" type="PLAIN_TEXT" />
       <mapping pattern="webpack/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="bin/docker" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="app/rails/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="senju/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".erdconfig" type="PLAIN_TEXT" />
       <mapping pattern="DockerVersion" type="PLAIN_TEXT" />
       <mapping pattern=".pea.standalone_migrations" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="3-node8" type="PLAIN_TEXT" />
       <mapping ext="json1" type="PLAIN_TEXT" />
       <mapping ext="fixture" type="PLAIN_TEXT" />
+      <mapping ext="2/dockerfile" type="PLAIN_TEXT" />
       <mapping ext="3/dockerfile" type="PLAIN_TEXT" />
       <mapping ext="3-node8/dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".standalone_migrations" type="YAML" />
