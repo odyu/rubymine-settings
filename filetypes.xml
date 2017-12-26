@@ -14,6 +14,7 @@
       <mapping pattern="Dockerfile-mysql57" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".nprmc" type="Native" />
+      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping ext="3-node8" type="PLAIN_TEXT" />
       <mapping ext="fixture" type="PLAIN_TEXT" />
