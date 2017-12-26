@@ -16,6 +16,7 @@
       <mapping pattern=".nprmc" type="Native" />
       <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping ext="3-node8" type="PLAIN_TEXT" />
       <mapping ext="fixture" type="PLAIN_TEXT" />
       <mapping ext="3-node8/dockerfile" type="PLAIN_TEXT" />
