@@ -15,6 +15,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".nprmc" type="Native" />
       <mapping pattern="docker/app/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".railsrc" type="PLAIN_TEXT" />
       <mapping pattern="scripts/Makefile" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
