@@ -16,6 +16,7 @@
       <mapping pattern=".nprmc" type="Native" />
       <mapping pattern="docker/app/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="start" type="PLAIN_TEXT" />
+      <mapping pattern="sync" type="PLAIN_TEXT" />
       <mapping pattern="sync-stop" type="PLAIN_TEXT" />
       <mapping pattern="db/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".railsrc" type="PLAIN_TEXT" />
