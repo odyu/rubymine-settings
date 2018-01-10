@@ -632,6 +632,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/baby_squeel-1.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="backticks (v1.0.2, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/backticks-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/backticks-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/backticks-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/backticks-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.11, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
@@ -1174,6 +1184,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/crass-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="daemons (v1.2.6, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/daemons-1.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/daemons-1.2.6/lib" />
+      </SOURCES>
+    </library>
     <library name="data-confirm-modal (v1.2.0@fd34ae, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/bundler/gems/data-confirm-modal-fd34ae5a253e/vendor" />
@@ -1454,6 +1472,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/docile-1.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="docker-compose (v1.1.7, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/docker-compose-1.1.7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/docker-compose-1.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/docker-compose-1.1.7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/docker-compose-1.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="docker-sync (v0.5.2, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/docker-sync-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/docker-sync-0.5.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/docker-sync-0.5.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/docker-sync-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/docker-sync-0.5.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/docker-sync-0.5.2/tasks" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.20170404, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20170404/lib" />
@@ -1464,6 +1504,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20170404/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20170404/tool" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20170404/data" />
+      </SOURCES>
+    </library>
+    <library name="dotenv (v2.2.1, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/dotenv-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/dotenv-2.2.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/dotenv-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/dotenv-2.2.1/bin" />
       </SOURCES>
     </library>
     <library name="draper (v3.0.0, rbenv: 2.4.2) [gem]">
@@ -1816,6 +1866,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/formatador-0.2.5/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/formatador-0.2.5/tests" />
+      </SOURCES>
+    </library>
+    <library name="gem_update_checker (v0.2.0, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/gem_update_checker-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/gem_update_checker-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="global (v0.2.1, rbenv: 2.3.3) [gem]">
@@ -5698,6 +5756,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/temple-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="terminal-notifier (v2.0.0, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/terminal-notifier-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/terminal-notifier-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/terminal-notifier-2.0.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/terminal-notifier-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/terminal-notifier-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/terminal-notifier-2.0.0/vendor" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.1.5, rbenv: 2.3.3) [gem]">
