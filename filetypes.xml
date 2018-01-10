@@ -23,6 +23,7 @@
       <mapping pattern="scripts/Makefile" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern="sync-start" type="PLAIN_TEXT" />
+      <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
