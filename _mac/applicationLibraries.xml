@@ -692,6 +692,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/json-2.1.0/tests" />
       </SOURCES>
     </library>
+    <library name="kramdown (v1.16.2, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kramdown-1.16.2/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kramdown-1.16.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kramdown-1.16.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kramdown-1.16.2/benchmark" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kramdown-1.16.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kramdown-1.16.2/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kramdown-1.16.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kramdown-1.16.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kramdown-1.16.2/benchmark" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kramdown-1.16.2/man" />
+      </SOURCES>
+    </library>
     <library name="libv8-6.3.292.48.1-x86_64-darwin (v6.3.292.48.1, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/libv8-6.3.292.48.1-x86_64-darwin-16/vendor" />
@@ -1218,6 +1234,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rdoc/stats" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rdoc/rd" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rdoc/markup" />
+      </SOURCES>
+    </library>
+    <library name="redcarpet (v3.4.0, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/redcarpet-3.4.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/redcarpet-3.4.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/redcarpet-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/redcarpet-3.4.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/redcarpet-3.4.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/redcarpet-3.4.0/lib" />
       </SOURCES>
     </library>
     <library name="responders (v2.4.0, rbenv: 2.4.2) [gem]">
