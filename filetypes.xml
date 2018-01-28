@@ -34,6 +34,7 @@
       <mapping ext="fixture" type="PLAIN_TEXT" />
       <mapping ext="2/dockerfile" type="PLAIN_TEXT" />
       <mapping ext="3/dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="3-node8/dockerfile" type="PLAIN_TEXT" />
       <mapping ext="x/dockerfile" type="PLAIN_TEXT" />
       <removed_mapping pattern=".rvmrc" type="PLAIN_TEXT" />
