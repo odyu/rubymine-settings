@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
@@ -17,11 +17,12 @@
       <mapping pattern="docker/app/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="start" type="PLAIN_TEXT" />
       <mapping pattern="sync" type="PLAIN_TEXT" />
-      <mapping pattern=".yardopts" type="PLAIN_TEXT" />
       <mapping pattern=".erdconfig" type="PLAIN_TEXT" />
       <mapping pattern="sync-stop" type="PLAIN_TEXT" />
       <mapping pattern="db/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".GoogleCloudStorageFile%3Agcs_file%3Aprocessed%2F2%2F20_M.mp420180130-30710-5di250" type="PLAIN_TEXT" />
       <mapping pattern=".railsrc" type="PLAIN_TEXT" />
+      <mapping pattern=".GoogleCloudStorageFile%3Agcs_file%3Aprocessed%2F2%2F21_M.mp420180130-30710-1nnhz4" type="PLAIN_TEXT" />
       <mapping pattern="scripts/Makefile" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern="sync-start" type="PLAIN_TEXT" />
@@ -34,14 +35,13 @@
       <mapping ext="fixture" type="PLAIN_TEXT" />
       <mapping ext="2/dockerfile" type="PLAIN_TEXT" />
       <mapping ext="3/dockerfile" type="PLAIN_TEXT" />
-      <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="3-node8/dockerfile" type="PLAIN_TEXT" />
       <mapping ext="x/dockerfile" type="PLAIN_TEXT" />
       <removed_mapping pattern=".rvmrc" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="TOML file" />
       <mapping pattern=".standalone_migrations" type="YAML" />
       <mapping pattern=".mysql57.standalone_migrations" type="YAML" />
-      <mapping ext="cnf" type="TOML file" />
     </extensionMap>
   </component>
 </application>
