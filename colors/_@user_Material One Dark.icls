@@ -4,7 +4,7 @@
     <property name="created">2017-12-08T10:55:08</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-01-23T00:13:16</property>
+    <property name="modified">2018-01-23T00:16:29</property>
     <property name="originalScheme">Material One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2201,7 +2201,7 @@
     </option>
     <option name="MARKDOWN_TABLE_SEPARATOR">
       <value>
-        <option name="FOREGROUND" value="4a4931" />
+        <option name="FOREGROUND" value="c6c6c6" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
