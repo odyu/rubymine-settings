@@ -1434,6 +1434,20 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/lib" />
       </SOURCES>
     </library>
+    <library name="ffi (v1.9.23, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.23" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ffi-1.9.23/samples" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ffi-1.9.23/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ffi-1.9.23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.23" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ffi-1.9.23/samples" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ffi-1.9.23/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ffi-1.9.23/lib" />
+      </SOURCES>
+    </library>
     <library name="foreman (v0.84.0, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/foreman-0.84.0/lib" />
@@ -1752,6 +1766,20 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/guard-2.14.1/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/guard-2.14.1/images" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/guard-2.14.1/man" />
+      </SOURCES>
+    </library>
+    <library name="guard (v2.14.2, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/guard-2.14.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/guard-2.14.2/man" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/guard-2.14.2/images" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/guard-2.14.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/guard-2.14.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/guard-2.14.2/man" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/guard-2.14.2/images" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/guard-2.14.2/lib" />
       </SOURCES>
     </library>
     <library name="guard-compat (v1.2.1, rbenv: 2.2.3 (1)) [gem]">
@@ -2274,6 +2302,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="lumberjack (v1.0.13, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.13/lib" />
       </SOURCES>
     </library>
     <library name="mail (v2.6.6, rbenv: 2.2.3 (1)) [gem]">
@@ -2936,6 +2972,16 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-0.11.1/bin" />
       </SOURCES>
     </library>
+    <library name="pry (v0.11.3, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-0.11.3/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-0.11.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-0.11.3/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-0.11.3/bin" />
+      </SOURCES>
+    </library>
     <library name="pry-byebug (v3.5.0, rbenv: 2.3.3 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-byebug-3.5.0/lib" />
@@ -3558,6 +3604,20 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.2/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="rb-fsevent (v0.10.3, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.3/lib" />
       </SOURCES>
     </library>
     <library name="rb-inotify (v0.9.10, rbenv: 2.2.3 (1)) [gem]">
