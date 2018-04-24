@@ -22,10 +22,10 @@
       <mapping pattern="sync-stop" type="PLAIN_TEXT" />
       <mapping pattern="start" type="PLAIN_TEXT" />
       <mapping pattern="db/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".GoogleCloudStorageFile%3Agcs_file%3Aprocessed%2F2%2F20_M.mp420180130-30710-5di250" type="PLAIN_TEXT" />
       <mapping pattern=".railsrc" type="PLAIN_TEXT" />
-      <mapping pattern=".GoogleCloudStorageFile%3Agcs_file%3Aprocessed%2F2%2F21_M.mp420180130-30710-1nnhz4" type="PLAIN_TEXT" />
       <mapping pattern="scripts/Makefile" type="PLAIN_TEXT" />
+      <mapping pattern=".GoogleCloudStorageFile%3Agcs_file%3Aprocessed%2F2%2F21_M.mp420180130-30710-1nnhz4" type="PLAIN_TEXT" />
+      <mapping pattern=".GoogleCloudStorageFile%3Agcs_file%3Aprocessed%2F2%2F20_M.mp420180130-30710-5di250" type="PLAIN_TEXT" />
       <mapping pattern="sync" type="PLAIN_TEXT" />
       <mapping pattern="sync-start" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
@@ -33,8 +33,6 @@
       <mapping pattern="lint" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="3-node8" type="PLAIN_TEXT" />
       <mapping ext="json1" type="PLAIN_TEXT" />
       <mapping ext="fixture" type="PLAIN_TEXT" />
@@ -45,6 +43,7 @@
       <mapping ext="3-node8/dockerfile" type="PLAIN_TEXT" />
       <mapping ext="x/dockerfile" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="ruby" type="Ruby" />
       <mapping ext="cnf" type="TOML file" />
       <mapping pattern=".standalone_migrations" type="YAML" />
