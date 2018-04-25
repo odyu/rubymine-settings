@@ -3,10 +3,9 @@
     <option name="version" value="2.1.7.4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="4" />
     <option name="accentColor" value="80cbc4" />
     <option name="tabsHeight" value="36" />
-    <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
   </component>
