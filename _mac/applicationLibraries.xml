@@ -1752,6 +1752,24 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/graphql-1.7.4/lib" />
       </SOURCES>
     </library>
+    <library name="graphql (v1.8.0.pre10@bb7627, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/graphql-ruby-bb7627c5e43f/gemfiles" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/graphql-ruby-bb7627c5e43f/javascript_client" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/graphql-ruby-bb7627c5e43f/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/graphql-ruby-bb7627c5e43f/.github" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/graphql-ruby-bb7627c5e43f/benchmark" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/graphql-ruby-bb7627c5e43f/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/graphql-ruby-bb7627c5e43f/gemfiles" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/graphql-ruby-bb7627c5e43f/javascript_client" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/graphql-ruby-bb7627c5e43f/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/graphql-ruby-bb7627c5e43f/.github" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/graphql-ruby-bb7627c5e43f/benchmark" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/graphql-ruby-bb7627c5e43f/guides" />
+      </SOURCES>
+    </library>
     <library name="graphql-batch (v0.3.5, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/graphql-batch-0.3.5/lib" />
