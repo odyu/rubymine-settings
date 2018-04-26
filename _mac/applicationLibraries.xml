@@ -1790,6 +1790,16 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/graphql-batch-0.3.5/bin" />
       </SOURCES>
     </library>
+    <library name="graphql-batch (v0.3.9, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/graphql-batch-0.3.9/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/graphql-batch-0.3.9/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/graphql-batch-0.3.9/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/graphql-batch-0.3.9/bin" />
+      </SOURCES>
+    </library>
     <library name="grcode (v0.1.0, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/grcode-0.1.0/lib" />
