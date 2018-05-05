@@ -2,8 +2,10 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.1.7.4" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="highlightThickness" value="0" />
     <option name="accentColor" value="80cbc4" />
+    <option name="tabsHeight" value="36" />
+    <option name="themedScrollbars" value="false" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
   </component>
 </application>
