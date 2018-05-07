@@ -972,6 +972,13 @@
             </list>
           </value>
         </entry>
+        <entry key="getcookies">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="gfe-sass">
           <value>
             <list>
