@@ -23,14 +23,14 @@
             </list>
           </value>
         </entry>
-        <entry key="@vivaxy/here">
+        <entry key="626">
           <value>
             <list>
               <Advisory />
             </list>
           </value>
         </entry>
-        <entry key="Morris.js">
+        <entry key="@vivaxy/here">
           <value>
             <list>
               <Advisory />
@@ -86,7 +86,21 @@
             </list>
           </value>
         </entry>
+        <entry key="angular-http-server">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="ansi2html">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="anywhere">
           <value>
             <list>
               <Advisory />
@@ -129,6 +143,13 @@
           </value>
         </entry>
         <entry key="arrayfire-js">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="assign-deep">
           <value>
             <list>
               <Advisory />
@@ -212,6 +233,13 @@
             </list>
           </value>
         </entry>
+        <entry key="bl">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="bleach">
           <value>
             <list>
@@ -241,6 +269,13 @@
           </value>
         </entry>
         <entry key="brace-expansion">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="bracket-template">
           <value>
             <list>
               <Advisory />
@@ -436,6 +471,13 @@
             </list>
           </value>
         </entry>
+        <entry key="concat-stream">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="connect">
           <value>
             <list>
@@ -444,6 +486,13 @@
           </value>
         </entry>
         <entry key="console-io">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="constantinople">
           <value>
             <list>
               <Advisory />
@@ -472,6 +521,13 @@
           </value>
         </entry>
         <entry key="crossenv">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="crud-file-server">
           <value>
             <list>
               <Advisory />
@@ -597,6 +653,13 @@
             </list>
           </value>
         </entry>
+        <entry key="deap">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="debug">
           <value>
             <list>
@@ -605,6 +668,20 @@
           </value>
         </entry>
         <entry key="decamelize">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="deep-extend">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="default-deep">
           <value>
             <list>
               <Advisory />
@@ -867,6 +944,13 @@
             </list>
           </value>
         </entry>
+        <entry key="floody">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="forms">
           <value>
             <list>
@@ -958,6 +1042,13 @@
             </list>
           </value>
         </entry>
+        <entry key="general-file-server">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="geoip-lite-country">
           <value>
             <list>
@@ -966,13 +1057,6 @@
           </value>
         </entry>
         <entry key="getcityapi.yoehoehne">
-          <value>
-            <list>
-              <Advisory />
-            </list>
-          </value>
-        </entry>
-        <entry key="getcookies">
           <value>
             <list>
               <Advisory />
@@ -989,6 +1073,14 @@
         <entry key="gitbook">
           <value>
             <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="glance">
+          <value>
+            <list>
+              <Advisory />
               <Advisory />
             </list>
           </value>
@@ -1159,6 +1251,13 @@
             </list>
           </value>
         </entry>
+        <entry key="hekto">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="herbivore">
           <value>
             <list>
@@ -1194,7 +1293,22 @@
             </list>
           </value>
         </entry>
+        <entry key="html-janitor">
+          <value>
+            <list>
+              <Advisory />
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="http-proxy">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="http-proxy-agent">
           <value>
             <list>
               <Advisory />
@@ -1216,6 +1330,13 @@
           </value>
         </entry>
         <entry key="http_static_simple">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="https-proxy-agent">
           <value>
             <list>
               <Advisory />
@@ -1352,6 +1473,7 @@
         <entry key="is-my-json-valid">
           <value>
             <list>
+              <Advisory />
               <Advisory />
             </list>
           </value>
@@ -1645,6 +1767,20 @@
             </list>
           </value>
         </entry>
+        <entry key="localhost-now">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="lodash">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="looppake">
           <value>
             <list>
@@ -1728,6 +1864,20 @@
             </list>
           </value>
         </entry>
+        <entry key="merge-deep">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="metascraper">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="method-override">
           <value>
             <list>
@@ -1770,6 +1920,13 @@
             </list>
           </value>
         </entry>
+        <entry key="mixin-deep">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="mobile-icon-resizer">
           <value>
             <list>
@@ -1799,7 +1956,21 @@
             </list>
           </value>
         </entry>
+        <entry key="mongoose">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="mongose">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="morris.js">
           <value>
             <list>
               <Advisory />
@@ -1815,6 +1986,13 @@
           </value>
         </entry>
         <entry key="mqtt-packet">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="mrk.js">
           <value>
             <list>
               <Advisory />
@@ -1866,6 +2044,7 @@
         <entry key="mysql">
           <value>
             <list>
+              <Advisory />
               <Advisory />
             </list>
           </value>
@@ -2025,6 +2204,13 @@
           </value>
         </entry>
         <entry key="node-sqlite">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="node-srv">
           <value>
             <list>
               <Advisory />
@@ -2235,6 +2421,13 @@
             </list>
           </value>
         </entry>
+        <entry key="openwhisk">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="operadriver">
           <value>
             <list>
@@ -2396,9 +2589,24 @@
             </list>
           </value>
         </entry>
+        <entry key="protobufjs">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="proxy.js">
           <value>
             <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="public">
+          <value>
+            <list>
+              <Advisory />
               <Advisory />
             </list>
           </value>
@@ -2439,14 +2647,14 @@
             </list>
           </value>
         </entry>
-        <entry key="react-native-baidu-voice-synthesizer">
+        <entry key="randomatic">
           <value>
             <list>
               <Advisory />
             </list>
           </value>
         </entry>
-        <entry key="react-native-meteor-oauth">
+        <entry key="react-native-baidu-voice-synthesizer">
           <value>
             <list>
               <Advisory />
@@ -2739,6 +2947,7 @@
           <value>
             <list>
               <Advisory />
+              <Advisory />
             </list>
           </value>
         </entry>
@@ -2896,6 +3105,20 @@
             </list>
           </value>
         </entry>
+        <entry key="simple-server">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="simplehttpserver">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="slimerjs-edge">
           <value>
             <list>
@@ -2959,6 +3182,20 @@
             </list>
           </value>
         </entry>
+        <entry key="squel">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="sshpk">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="sspa">
           <value>
             <list>
@@ -2989,6 +3226,13 @@
           </value>
         </entry>
         <entry key="static-html-server">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="stattic">
           <value>
             <list>
               <Advisory />
@@ -3135,6 +3379,13 @@
           <value>
             <list>
               <Advisory />
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="tunnel-agent">
+          <value>
+            <list>
               <Advisory />
             </list>
           </value>
@@ -3297,6 +3548,13 @@
           </value>
         </entry>
         <entry key="wffserve">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="whereis">
           <value>
             <list>
               <Advisory />
