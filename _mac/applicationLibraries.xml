@@ -930,6 +930,14 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/draper-3.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="easy_translate (v0.5.1, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/easy_translate-0.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/easy_translate-0.5.1/lib" />
+      </SOURCES>
+    </library>
     <library name="em-websocket (v0.5.1, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/em-websocket-0.5.1/lib" />
@@ -976,6 +984,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/equalizer-0.0.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="erubi (v1.7.1, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/erubi-1.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/erubi-1.7.1/lib" />
       </SOURCES>
     </library>
     <library name="erubis (v2.7.0, rbenv: 2.2.3 (1)) [gem]">
@@ -1432,6 +1448,14 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/health_check-3.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="highline (v1.7.10, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/highline-1.7.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/highline-1.7.10/lib" />
+      </SOURCES>
+    </library>
     <library name="hpricot (v0.8.6, rbenv: 2.3.3 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/hpricot-0.8.6/lib" />
@@ -1504,6 +1528,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/i18n-js-3.0.5/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/i18n-js-3.0.5/app" />
+      </SOURCES>
+    </library>
+    <library name="i18n-tasks (v0.9.21, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/i18n-tasks-0.9.21/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/i18n-tasks-0.9.21/lib" />
       </SOURCES>
     </library>
     <library name="ice_nine (v0.11.2, rbenv: 2.2.3 (1)) [gem]">
@@ -3490,6 +3522,14 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/temple-0.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="terminal-table (v1.8.0, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/terminal-table-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/terminal-table-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.0.8, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/lib" />
@@ -3512,6 +3552,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread (v0.2.2, rbenv: 2.3.3 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/thread-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/thread-0.2.2/lib" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.6, rbenv: 2.2.3 (1)) [gem]">
