@@ -8,5 +8,6 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="userId" value="-3db91648:163eda55d97:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
