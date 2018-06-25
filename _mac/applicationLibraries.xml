@@ -2506,12 +2506,28 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kaminari-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="kaminari (v1.1.1, rbenv: 2.4.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/kaminari-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/kaminari-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari-actionview (v1.0.1, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kaminari-actionview-1.0.1/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kaminari-actionview-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-actionview (v1.1.1, rbenv: 2.4.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/kaminari-actionview-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/kaminari-actionview-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="kaminari-activerecord (v1.0.1, rbenv: 2.2.3 (1)) [gem]">
@@ -2522,6 +2538,14 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kaminari-activerecord-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="kaminari-activerecord (v1.1.1, rbenv: 2.4.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/kaminari-activerecord-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/kaminari-activerecord-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari-core (v1.0.1, rbenv: 2.2.3 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kaminari-core-1.0.1/lib" />
@@ -2530,6 +2554,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kaminari-core-1.0.1/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kaminari-core-1.0.1/app" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-core (v1.1.1, rbenv: 2.4.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/app" />
       </SOURCES>
     </library>
     <library name="kgio (v2.11.0, rbenv: 2.2.3 (1)) [gem]">
