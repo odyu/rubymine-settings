@@ -1,11 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3.1" />
+    <option name="version" value="2.4.2-2018.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
     <option name="tabsHeight" value="36" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
+    <option name="userId" value="-3db91648:163eda55d97:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
