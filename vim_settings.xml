@@ -8,52 +8,66 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/About.jsx" timestamp="1535253697795">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="1" column="42" />
-        <mark key="." line="1" column="42" />
-        <mark key="^" line="1" column="42" />
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/About.jsx" timestamp="1535256208447">
+        <mark key="'" line="16" column="20" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/node_modules/rebass/dist/index.js" timestamp="1535253718856" />
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/space.js" timestamp="1535255528503">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/fontSizes.js" timestamp="1535255516889">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="10" column="7" />
       </file>
     </filemarks>
     <jumps>
       <jump line="2" column="0" filename="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Home.jsx" />
+      <jump line="8" column="20" filename="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/About.jsx" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9GbGV4Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvUm93Pgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPC9GbGV4Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvUm93Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9UZXh0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPEZsZXggbXg9ey0zfSBmbGV4V3JhcD0id3JhcCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L0hlYWRpbmcuaDE+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIENIUk9HTwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9MYWJlbD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8SGVhZGluZy5oMSBmb250U2l6ZT17WzUsIDYsIDcsIDhdfT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICDkuovmpa3lhoXlrrkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtCb3gsIEhlYWRpbmd9IGZyb20gJ3JlYmFzcycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPExhYmVsPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L0hlYWRpbmcuaDI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxSb3c+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIOS4lueVjOOBp+S4gOeVquaEn+isneOBqOODhuOCr+ODjuODreOCuOODvOOBp+ekvuS8muOCkuW5uOOBm+OBq+OBmeOCiwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICDku6Pooajlj5bnt6DlvbnnpL7plbcg5bCP55Sw5bO2IOaCoAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>2018年6月1日</text>
       </register>
     </registers>
     <search>
@@ -62,6 +76,8 @@
     </search>
     <history>
       <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
