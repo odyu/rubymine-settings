@@ -1,0 +1,73 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Home.jsx" timestamp="1535252988608">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/About.jsx" timestamp="1535253697795">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="42" />
+        <mark key="^" line="1" column="42" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Home.jsx" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgPC9GbGV4Pgo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPC9GbGV4Pgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPEZsZXggbXg9ey0zfSBmbGV4V3JhcD0id3JhcCI+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8L0hlYWRpbmcuaDE+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIENIUk9HTwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8SGVhZGluZy5oMSBmb250U2l6ZT17WzUsIDYsIDcsIDhdfT4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHtCb3gsIEhlYWRpbmd9IGZyb20gJ3JlYmFzcycK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8L0hlYWRpbmcuaDI+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIOS4lueVjOOBp+S4gOeVquaEn+isneOBqOODhuOCr+ODjuODreOCuOODvOOBp+ekvuS8muOCkuW5uOOBm+OBq+OBmeOCiwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
