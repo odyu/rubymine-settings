@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Home.jsx" timestamp="1535252988608">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Home.jsx" timestamp="1535810957912">
+        <mark key="[" line="10" column="102" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/About.jsx" timestamp="1535256208447">
         <mark key="'" line="16" column="20" />
@@ -14,7 +15,11 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/node_modules/rebass/dist/index.js" timestamp="1535253718856" />
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Blog.jsx" timestamp="1535809746877">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/space.js" timestamp="1535255528503">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="7" />
@@ -34,34 +39,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvUm93Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L0hlYWRpbmcuaDI+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvUm93Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L0hlYWRpbmcuaDI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVyYXRpb249ezN9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kPXs5NjV9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9MYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnQ9ezB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICDkuovmpa3lhoXlrrkK</text>
+        <text encoding="base64">ICAgICAgICAgIDxDb3VudFVwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPExhYmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICA8SGVhZGluZy5oMiBmb250U2l6ZT17WzEsIDIsIDMsIDRdfT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3c+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L0NvdW50VXA+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICDku6Pooajlj5bnt6DlvbnnpL7plbcg5bCP55Sw5bO2IOaCoAo=</text>
+        <text encoding="base64">ICAgICAgICAgICl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -75,11 +80,14 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
     <editor>
