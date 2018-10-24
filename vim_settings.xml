@@ -20,7 +20,9 @@
         <mark key="^" line="68" column="11" />
         <mark key="." line="68" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540356781287" />
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
+        <mark key="[" line="3" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/breakpoints.js" timestamp="1535813244303">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="9" />
@@ -54,11 +56,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/ThemeProvider.jsx" timestamp="1540346842553">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/ThemeProvider.jsx" timestamp="1540363041527">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="35" />
+        <mark key="." line="12" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/NavBar.js" timestamp="1540347019964">
         <mark key="[" line="7" column="15" />
@@ -86,7 +88,7 @@
         <text encoding="base64">aW1wb3J0IHsgTmF2TGluayBhcyBSZWJhc3NOYXZMaW5rIH0gZnJvbSAncmViYXNzJwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>black</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHN0Cg==</text>
@@ -116,7 +118,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>black</text>
       </register>
     </registers>
     <search>
