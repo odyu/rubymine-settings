@@ -14,11 +14,11 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/SlideMenu.jsx" timestamp="1540362039587">
-        <mark key="[" line="68" column="12" />
-        <mark key="]" line="68" column="11" />
-        <mark key="^" line="68" column="11" />
-        <mark key="." line="68" column="11" />
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/SlideMenu.jsx" timestamp="1540371307277">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
         <mark key="[" line="3" column="25" />
@@ -28,6 +28,12 @@
         <mark key="]" line="1" column="9" />
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/NavLink.jsx" timestamp="1540371997994">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="55" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="4" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Blog.jsx" timestamp="1535809746877">
         <mark key="[" line="0" column="0" />
@@ -49,18 +55,18 @@
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Menu.jsx" timestamp="1540356959331">
         <mark key="[" line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/App.jsx" timestamp="1540362085512">
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/App.jsx" timestamp="1540371609236">
         <mark key="'" line="9" column="45" />
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/ThemeProvider.jsx" timestamp="1540363041527">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
-        <mark key="^" line="12" column="35" />
-        <mark key="." line="12" column="31" />
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/ThemeProvider.jsx" timestamp="1540370558726">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/NavBar.js" timestamp="1540347019964">
         <mark key="[" line="7" column="15" />
@@ -85,40 +91,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmF2TGluayBhcyBSZWJhc3NOYXZMaW5rIH0gZnJvbSAncmViYXNzJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>black</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQXBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgLCBIZWFkaW5nIH0gZnJvbSAncmViYXNzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L05hdkxpbms+Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIEJMT0cK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2TGluayB0bz0iL2Jsb2ciPgo=</text>
+        <text encoding="base64">Y29uc3QgQXBkZGRwID0gKCkgPT4gKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L05hdkxpbms+Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFCT1VUCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2TGluayB0bz0iL2Fib3V0Ij4K</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text encoding="base64">PA==</text>
       </register>
     </registers>
     <search>
