@@ -9,7 +9,7 @@
         <mark key="^" line="95" column="10" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/index.tsx" timestamp="1540435513968">
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/index.tsx" timestamp="1540436397031">
         <mark key="[" line="15" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Home.jsx" timestamp="1535813998703">
@@ -24,16 +24,37 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/SlideMenu.jsx" timestamp="1540371307277">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
+        <mark key="[" line="3" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/breakpoints.js" timestamp="1535813244303">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="9" />
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/NavLink.jsx" timestamp="1540372160371">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="55" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="4" column="55" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Blog.jsx" timestamp="1535809746877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/space.js" timestamp="1535255528503">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="9" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/NavBar.jsx" timestamp="1540383056613">
         <mark key="[" line="12" column="24" />
@@ -46,36 +67,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Hero.jsx" timestamp="1540382834938">
-        <mark key="[" line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/tsconfig.json" timestamp="1540435458341" />
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/yarn.lock" timestamp="1540433932947" />
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/SlideMenu.jsx" timestamp="1540371307277">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
-        <mark key="[" line="3" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/package.json" timestamp="1540434911793" />
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/NavLink.jsx" timestamp="1540372160371">
-        <mark key="[" line="4" column="55" />
-        <mark key="]" line="4" column="55" />
-        <mark key="^" line="6" column="22" />
-        <mark key="." line="4" column="55" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/space.js" timestamp="1535255528503">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="9" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Menu.jsx" timestamp="1540356959331">
         <mark key="[" line="0" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Hero.jsx" timestamp="1540382834938">
+        <mark key="[" line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/tsconfig.json" timestamp="1540437052062" />
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/index.ts" timestamp="1540434989914">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
