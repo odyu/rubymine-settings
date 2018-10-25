@@ -3,14 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/static.config.js" timestamp="1540435572519">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="95" column="10" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/static.config.js" timestamp="1540445313770">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/index.tsx" timestamp="1540436397031">
-        <mark key="[" line="15" column="70" />
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/index.tsx" timestamp="1540444313397">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/App.tsx" timestamp="1540445062116">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Home.jsx" timestamp="1535813998703">
         <mark key="[" line="9" column="46" />
@@ -35,6 +42,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/node_modules/@material-ui/core/styles/withStyles.d.ts" timestamp="1540444808290" />
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/NavBar.jsx" timestamp="1540383056613">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="17" column="5" />
@@ -54,6 +62,12 @@
         <mark key="]" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/index.jsx" timestamp="1540445506058">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="15" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/SlideMenu.jsx" timestamp="1540371307277">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="18" column="0" />
@@ -63,6 +77,7 @@
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
         <mark key="[" line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/package.json" timestamp="1540445288825" />
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/NavLink.jsx" timestamp="1540372160371">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="55" />
@@ -125,42 +140,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwYXRocyI6IHsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb25maWcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYXNlVXJsIjogIi4iLAo=</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIkBtYXRlcmlhbC11aS9sYWIvKiI6IFsiLi9tYXRlcmlhbC11aS1sYWIvc3JjLyoiXQo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIkBtYXRlcmlhbC11aS9sYWIiOiBbIi4vbWF0ZXJpYWwtdWktbGFiL3NyYyJdLAo=</text>
+        <text encoding="base64">ICAgICAgICBdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIkBtYXRlcmlhbC11aS9jb3JlLyoiOiBbIi4vbWF0ZXJpYWwtdWkvc3JjLyoiXSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHRMb2FkZXJzLmZpbGVMb2FkZXIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIkBtYXRlcmlhbC11aS9jb3JlIjogWyIuL21hdGVyaWFsLXVpL3NyYyJdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHRMb2FkZXJzLmNzc0xvYWRlciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;@myPathAlias/*&quot;: [
-        &quot;src/path-alias-example/*&quot;
-      ]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
