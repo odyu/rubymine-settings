@@ -116,6 +116,7 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="10" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/ca/car-gva-tag/packages/ad/src/core/ad/core.ts" timestamp="1540443085247" />
     </filemarks>
     <jumps>
       <jump line="2" column="0" filename="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Home.jsx" />
