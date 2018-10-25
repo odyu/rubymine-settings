@@ -94,6 +94,11 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="4" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/TypographyLink.jsx" timestamp="1540455798042">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/space.js" timestamp="1535255528503">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="7" />
@@ -111,10 +116,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/App.jsx" timestamp="1540454674756">
-        <mark key="[" line="63" column="55" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/App.jsx" timestamp="1540455849165">
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/ThemeProvider.jsx" timestamp="1540370558726">
         <mark key="[" line="5" column="0" />
@@ -149,40 +153,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9MaW5rPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9MaW5rPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPExpbmsgdG89Ii8iPgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG5hdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9Ub29sYmFyPgo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgVHlwb2dyYXBoeUxpbmsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L1R5cG9ncmFwaHk+Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aFN0eWxlcyhzdHlsZXMpKFRleHRMaW5rKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENIUk9HTwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8VHlwb2dyYXBoeSB2YXJpYW50PSJoNiIgY29sb3I9ImluaGVyaXQiIGNvbXBvbmVudD17PExpbmsgdG89Ii8iIC8+fT4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRvb2xiYXI+Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PC9MaW5rPjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{</text>
       </register>
     </registers>
     <search>
