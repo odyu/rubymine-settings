@@ -44,7 +44,6 @@
     <option name="INDENT_PRIVATE_METHODS" value="true" />
     <option name="INDENT_PROTECTED_METHODS" value="true" />
     <option name="INDENT_PUBLIC_METHODS" value="true" />
-    <option name="INDENT_WHEN_CASES" value="false" />
   </Ruby>
   <DBN-SQL>
     <case-options enabled="false">
@@ -66,6 +65,9 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
