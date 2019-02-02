@@ -37,7 +37,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/material-colors.js" timestamp="1541197190086" />
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/NavBar.jsx" timestamp="1540383056613">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="17" column="5" />
@@ -84,7 +83,6 @@
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
         <mark key="[" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/package.json" timestamp="1543886954826" />
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/NavLink.jsx" timestamp="1540372160371">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="55" />
@@ -97,6 +95,12 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/graphql-rails/graphql-rails.gemspec" timestamp="1549126863102">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/space.js" timestamp="1535255528503">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="7" />
@@ -105,6 +109,11 @@
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Menu.jsx" timestamp="1540356959331">
         <mark key="[" line="0" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/graphql-rails/Gemfile" timestamp="1549127073745">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/tslint.json" timestamp="1540438198835">
         <mark key="[" line="1" column="14" />
@@ -165,40 +174,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvY29sb3JzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvY29sb3JzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFR5cG9ncmFwaHkgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvVHlwb2dyYXBoeScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFRvb2xiYXIgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvVG9vbGJhcicK</text>
+        <text encoding="base64">Z2VtICJtb25vcmVwbyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFRhYnMgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvVGFicycK</text>
+        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvY29sb3JzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFRhYiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9UYWInCg==</text>
+        <text encoding="base64">aW1wb3J0IFR5cG9ncmFwaHkgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvVHlwb2dyYXBoeScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IE1lbnVJY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9NZW51Jwo=</text>
+        <text encoding="base64">aW1wb3J0IFRvb2xiYXIgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvVG9vbGJhcicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEljb25CdXR0b24gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvSWNvbkJ1dHRvbicK</text>
+        <text encoding="base64">aW1wb3J0IFRhYnMgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvVGFicycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEljb25CdXR0b24gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvSWNvbkJ1dHRvbicK</text>
+        <text encoding="base64">aW1wb3J0IFRhYiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9UYWInCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENzc0Jhc2VsaW5lIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0Nzc0Jhc2VsaW5lJwo=</text>
+        <text encoding="base64">aW1wb3J0IE1lbnVJY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9NZW51Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>transparent</text>
+        <text>: Write a short summary, because RubyGems requires one.</text>
       </register>
     </registers>
     <search>
