@@ -20,6 +20,9 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/src/index.ts" timestamp="1552057563404">
+        <mark key="[" line="4" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Home.jsx" timestamp="1543896462207">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -32,11 +35,17 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/app/tsconfig.json" timestamp="1552060157379">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Blog.jsx" timestamp="1535809746877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/app/package.json" timestamp="1552057650187" />
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/NavBar.jsx" timestamp="1540383056613">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="17" column="5" />
@@ -63,6 +72,11 @@
         <mark key="]" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/app/src/main.ts" timestamp="1552060090510">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/index.jsx" timestamp="1540445506058">
         <mark key="[" line="16" column="40" />
         <mark key="]" line="16" column="40" />
@@ -71,6 +85,12 @@
       </file>
       <file name="$USER_HOME$/workspace/graphql-rails/datescalar/lib/graphql/rails/date_scalar.rb" timestamp="1549128783731">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/yarn.lock" timestamp="1552057459897" />
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/index.ts" timestamp="1552057279571">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/graphql-rails/datescalar/lib/date_scalar.rb" timestamp="1549128717708">
         <mark key="[" line="3" column="0" />
@@ -98,6 +118,11 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="4" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/tsconfig.base.json" timestamp="1552060264914">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/TypographyLink.jsx" timestamp="1543896454349">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="39" column="0" />
@@ -116,10 +141,10 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/package.json" timestamp="1552054776028">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/package.json" timestamp="1552056808618">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Menu.jsx" timestamp="1540356959331">
         <mark key="[" line="0" column="49" />
@@ -135,6 +160,11 @@
         <mark key="^" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/package.json" timestamp="1552060126035">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/graphql-rails/date-scalar/date-scalar.gemspec" timestamp="1549127457095">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="38" />
@@ -143,13 +173,6 @@
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/tslint.json" timestamp="1540438198835">
         <mark key="[" line="1" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/AppHeader.jsx" timestamp="1543888750205">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="58" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/index.ts" timestamp="1540434989914">
         <mark key="[" line="0" column="0" />
@@ -173,10 +196,10 @@
         <mark key="^" line="65" column="49" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/.gitignore" timestamp="1552054860252">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/.gitignore" timestamp="1552057895053">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/SideMenuLink.jsx" timestamp="1540361357471">
         <mark key="[" line="3" column="19" />
@@ -196,6 +219,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="10" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/tsconfig.json" timestamp="1552059702160">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2" column="0" filename="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Home.jsx" />
@@ -205,40 +233,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Kn4K</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Kn4K</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ym93ZXJfY29tcG9uZW50cy8K</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIC4vYmluL3d3dyIK</text>
+        <text encoding="base64">ICAgICAgICAic3JjLyoiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJwdWciOiAiMi4wLjAtYmV0YTExIgo=</text>
+        <text encoding="base64">ICAgICAgIkAvKiI6IFsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJtb3JnYW4iOiAifjEuOS4wIiwK</text>
+        <text encoding="base64">ICAgICJwYXRocyI6IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJodHRwLWVycm9ycyI6ICJ+MS42LjIiLAo=</text>
+        <text encoding="base64">ICAgICJyb290RGlyIjogInNyYyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJleHByZXNzIjogIn40LjE2LjAiLAo=</text>
+        <text encoding="base64">ICAgICJvdXREaXIiOiAiZGlzdCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJkZWJ1ZyI6ICJ+Mi42LjkiLAo=</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJjb29raWUtcGFyc2VyIjogIn4xLjQuMyIsCg==</text>
+        <text encoding="base64">ICAgICJub2RlX21vZHVsZXMiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>dist</text>
       </register>
     </registers>
     <search>
