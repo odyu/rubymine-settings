@@ -35,7 +35,7 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/app/tsconfig.json" timestamp="1552060157379">
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/app/tsconfig.json" timestamp="1552060694108">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
@@ -213,13 +213,18 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/README.md" timestamp="1552061665710">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/theme/fontSizes.js" timestamp="1535255516889">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="7" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/tsconfig.json" timestamp="1552059702160">
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/tsconfig.json" timestamp="1552061226770">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="9" column="5" />
         <mark key="." line="9" column="5" />
@@ -233,34 +238,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">IyMgRmlsZXMgaW4gdGhpcyByZXBvc2l0b3J5Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">IyMgRmlsZXMgaW4gdGhpcyByZXBvc2l0b3J5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAic3JjLyoiCg==</text>
+        <text encoding="base64">LSBVc2UgYFZ1ZSBDTEkzYAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIkAvKiI6IFsK</text>
+        <text encoding="base64">LSBVc2UgYHlhcm4gd29ya3NwYWNlYAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJwYXRocyI6IHsK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJyb290RGlyIjogInNyYyIK</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJvdXREaXIiOiAiZGlzdCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAic3JjLyoiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">ICAgICAgIkAvKiI6IFsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJub2RlX21vZHVsZXMiCg==</text>
+        <text encoding="base64">ICAgICJwYXRocyI6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
