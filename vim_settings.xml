@@ -48,6 +48,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/.gitignore_global" timestamp="1552054853022" />
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/.eslintrc.js" timestamp="1540452757609">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="11" column="0" />
@@ -115,6 +116,11 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/package.json" timestamp="1552054776028">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Menu.jsx" timestamp="1540356959331">
         <mark key="[" line="0" column="49" />
       </file>
@@ -123,7 +129,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/graphql-rails/graphql-rails-core/graphql-rails-core.gemspec" timestamp="1549129582946" />
       <file name="$USER_HOME$/workspace/graphql-rails/datescalar/datescalar.gemspec" timestamp="1549128055032">
         <mark key="[" line="32" column="2" />
         <mark key="]" line="32" column="5" />
@@ -168,6 +173,11 @@
         <mark key="^" line="65" column="49" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/.gitignore" timestamp="1552054860252">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/SideMenuLink.jsx" timestamp="1540361357471">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="19" />
@@ -195,34 +205,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIFlvdXIgY29kZSBnb2VzIGhlcmUuLi4K</text>
+        <text encoding="base64">Kn4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIFlvdXIgY29kZSBnb2VzIGhlcmUuLi4K</text>
+        <text encoding="base64">Kn4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBleHRlbmQgQWN0aXZlU3VwcG9ydDo6QXV0b2xvYWQK</text>
+        <text encoding="base64">Ym93ZXJfY29tcG9uZW50cy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSAiYWN0aXZlX3N1cHBvcnQvcmFpbHMiCg==</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIC4vYmluL3d3dyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSAiYWN0aXZlX3N1cHBvcnQiCg==</text>
+        <text encoding="base64">ICAgICJwdWciOiAiMi4wLjAtYmV0YTExIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJtb3JnYW4iOiAifjEuOS4wIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICJodHRwLWVycm9ycyI6ICJ+MS42LjIiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgICJleHByZXNzIjogIn40LjE2LjAiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICJkZWJ1ZyI6ICJ+Mi42LjkiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJjb29raWUtcGFyc2VyIjogIn4xLjQuMyIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
