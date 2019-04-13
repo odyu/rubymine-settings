@@ -11,15 +11,30 @@
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/src/index.ts" timestamp="1552057563404">
         <mark key="[" line="4" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/index.ts" timestamp="1555179137745">
+        <mark key="[" line="0" column="57" />
+        <mark key="]" line="0" column="57" />
+        <mark key="." line="0" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/Box.vue" timestamp="1555178641109">
+        <mark key="^" line="45" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/app/tsconfig.json" timestamp="1552060694108">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/App.tsx" timestamp="1555177974937" />
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Blog.jsx" timestamp="1535809746877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/node_modules/vue-styled-components/dist/vue-styled-components.js" timestamp="1555176757594" />
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/Box.ts" timestamp="1555179273588">
+        <mark key="[" line="31" column="1" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/.babelrc" timestamp="1540433957412">
         <mark key="[" line="3" column="0" />
@@ -29,10 +44,10 @@
       <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/stylePropType.ts" timestamp="1555170707101">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/App.vue" timestamp="1555141817579">
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="9" column="47" />
-        <mark key="." line="9" column="47" />
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/App.vue" timestamp="1555179152263">
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Hero.jsx" timestamp="1540382834938">
         <mark key="[" line="1" column="29" />
@@ -60,7 +75,15 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/index.tsx" timestamp="1555173898010">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/graphql-rails/datescalar/lib/date_scalar.rb" timestamp="1549128717708">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/ThemeProvider.ts" timestamp="1555179130229">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -72,6 +95,9 @@
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
         <mark key="[" line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/themed.ts" timestamp="1555176598190">
+        <mark key="[" line="0" column="65" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1555169732626">
         <mark key="[" line="0" column="0" />
@@ -87,7 +113,7 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/HelloWorld.tsx" timestamp="1555143405455">
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/HelloWorld.tsx" timestamp="1555177671001">
         <mark key="[" line="31" column="9" />
         <mark key="]" line="31" column="9" />
         <mark key="." line="31" column="9" />
@@ -116,6 +142,11 @@
         <mark key="]" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/ThemeProvider.vue" timestamp="1555178389736">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/tslint.json" timestamp="1540438198835">
         <mark key="[" line="1" column="14" />
       </file>
@@ -128,6 +159,16 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/shims-vue-styled-components.d.ts" timestamp="1555177216760">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/main.ts" timestamp="1555177625774">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/.gitignore" timestamp="1552057895053">
         <mark key="[" line="2" column="0" />
@@ -145,8 +186,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/styleProps.ts" timestamp="1555171409646">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/styleProps.ts" timestamp="1555173440601">
+        <mark key="[" line="185" column="38" />
+        <mark key="]" line="162" column="4" />
+        <mark key="^" line="162" column="4" />
+        <mark key="." line="162" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/tsconfig.json" timestamp="1552061226770">
         <mark key="[" line="2" column="22" />
@@ -162,40 +206,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ2dWUtdHN4LXN1cHBvcnQiOiAiXjIuMC4wIgo=</text>
+        <text encoding="base64">YDsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAke3RoZW1lZCgiQm94Iil9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAke2FsaWduU2VsZn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdHNDb25maWc6ICJ0c2NvbmZpZy5qZXN0Lmpzb24iCg==</text>
+        <text encoding="base64">ICAke29yZGVyfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ0cy1qZXN0Ijogewo=</text>
+        <text encoding="base64">ICAke2ZsZXh9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnbG9iYWxzOiB7ZGQK</text>
+        <text encoding="base64">ICAke2NvbG9yfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ2dWUtdHN4LXN1cHBvcnQiOiAiXjIuMi4wIgo=</text>
+        <text encoding="base64">ICAke2ZvbnRTaXplfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ICAke3dpZHRofQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAke30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.vue</text>
       </register>
     </registers>
     <search>
