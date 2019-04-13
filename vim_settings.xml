@@ -70,7 +70,7 @@
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
         <mark key="[" line="3" column="25" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1555169504770">
+      <file name="/GraphQL.result.json" timestamp="1555169732626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/tsconfig.base.json" timestamp="1552060264914">
@@ -78,11 +78,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/vuebass/package.json" timestamp="1555143084233">
-        <mark key="[" line="30" column="37" />
-        <mark key="]" line="30" column="37" />
-        <mark key="." line="30" column="37" />
-        <mark key="^" line="5" column="9" />
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/package.json" timestamp="1555170171129">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="32" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/HelloWorld.tsx" timestamp="1555143405455">
         <mark key="[" line="31" column="9" />
@@ -156,40 +156,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICJ2dWUtdHN4LXN1cHBvcnQiOiAiXjIuMC4wIgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdHNDb25maWc6ICJ0c2NvbmZpZy5qZXN0Lmpzb24iCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0cy1qZXN0Ijogewo=</text>
+        <text encoding="base64">ICAgICAgdHNDb25maWc6ICJ0c2NvbmZpZy5qZXN0Lmpzb24iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBnbG9iYWxzOiB7ZGQK</text>
+        <text encoding="base64">ICAgICJ0cy1qZXN0Ijogewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ2dWUtdHN4LXN1cHBvcnQiOiAiXjIuMi4wIgo=</text>
+        <text encoding="base64">ICBnbG9iYWxzOiB7ZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ICAgICJ2dWUtdHN4LXN1cHBvcnQiOiAiXjIuMi4wIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
