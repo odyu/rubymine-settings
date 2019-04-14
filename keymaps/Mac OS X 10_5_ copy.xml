@@ -1,4 +1,9 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.UnshelveSilently" />
   <action id="EditorToggleCase" />
+  <action id="ShowUmlDiagramPopup" />
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
   <action id="ToggleCamelSnakeCase" />
 </keymap>
