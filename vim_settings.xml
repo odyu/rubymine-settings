@@ -122,6 +122,11 @@
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/hansel/Gemfile" timestamp="1559919632105">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/shiranami/.ruby-version" timestamp="1559918139929">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -156,7 +161,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559918001025">
+      <file name="/Dummy.txt" timestamp="1559919610841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
@@ -174,7 +179,7 @@
       <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/themed.ts" timestamp="1555179910789">
         <mark key="[" line="0" column="48" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559917739746">
+      <file name="/GraphQL.result.json" timestamp="1559918910919">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/package.json" timestamp="1552056808618">
@@ -245,32 +250,32 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ruby-2.3.7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGVtZScsIHRoZW1lKTsK</text>
+        <text encoding="base64">Z2VtICd0emluZm8tZGF0YScsIHBsYXRmb3JtczogWzptaW5ndywgOm1zd2luLCA6eDY0X21pbmd3LCA6anJ1YnldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">IyBXaW5kb3dzIGRvZXMgbm90IGluY2x1ZGUgem9uZWluZm8gZmlsZXMsIHNvIGJ1bmRsZSB0aGUgdHppbmZvLWRhdGEgZ2VtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGVtZScsIHRoZW1lKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhlbWU7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZ2V0IHRoZW1lKCkgewo=</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkYXRhKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhlbWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
