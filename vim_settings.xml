@@ -8,7 +8,7 @@
         <mark key="]" line="18" column="30" />
         <mark key="." line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/hansel/Dockerfile" timestamp="1559925693290">
+      <file name="$USER_HOME$/workspace/chrogo/hansel/Dockerfile" timestamp="1559927330537">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -65,6 +65,11 @@
       </file>
       <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/index.tsx" timestamp="1555173898010">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/hansel/docker-compose.yml" timestamp="1559926792927">
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="42" column="9" />
+        <mark key="." line="42" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/graphql-rails/datescalar/lib/date_scalar.rb" timestamp="1549128717708">
         <mark key="[" line="3" column="0" />
@@ -132,11 +137,11 @@
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/hansel/Gemfile" timestamp="1559919646570">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/hansel/Gemfile" timestamp="1559926744854">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/shiranami/.ruby-version" timestamp="1559918139929">
         <mark key="[" line="0" column="0" />
@@ -271,8 +276,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>docker-compose run --rm app bundle exec rails new . --force --database=mysql</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHR6ZGF0YQo=</text>
@@ -302,7 +307,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>mysql</text>
+        <text>docker-compose run --rm app bundle exec rails new . --force --database=mysql</text>
       </register>
     </registers>
     <search>
