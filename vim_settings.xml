@@ -29,8 +29,8 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000005_create_issue_categories.rb" timestamp="1560021495586">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000005_create_issue_categories.rb" timestamp="1560023117697">
+        <mark key="[" line="4" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/app/src/main.ts" timestamp="1552060090510">
         <mark key="[" line="4" column="20" />
@@ -41,6 +41,12 @@
         <mark key="[" line="42" column="9" />
         <mark key="]" line="42" column="9" />
         <mark key="." line="42" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/Gemfile" timestamp="1560023708558">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/tsconfig.base.json" timestamp="1552060264914">
         <mark key="[" line="13" column="0" />
@@ -68,6 +74,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000007_create_issues.rb" timestamp="1560023786905">
+        <mark key="]" line="9" column="43" />
+        <mark key="^" line="9" column="43" />
+        <mark key="." line="9" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/app/tsconfig.json" timestamp="1552060694108">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="25" />
@@ -86,10 +97,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/lib/tasks/auto_annotate_models.rake" timestamp="1559981424646">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="38" />
-        <mark key="." line="9" column="38" />
+      <file name="$USER_HOME$/workspace/chrogo/onore/lib/tasks/auto_annotate_models.rake" timestamp="1560024074504">
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="45" column="38" />
+        <mark key="." line="45" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/vuebass/tests/unit/example.spec.ts" timestamp="1555183871484">
         <mark key="[" line="6" column="15" />
@@ -107,6 +118,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/redmine/db/migrate/001_setup.rb" timestamp="1559983351084" />
+      <file name="$USER_HOME$/workspace/chrogo/onore/app/models/issue.rb" timestamp="1560024003362">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000007_create_works.rb" timestamp="1560021531080">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -145,10 +161,10 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000006_create_issue_statuses.rb" timestamp="1560021501303">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="8" />
+      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000006_create_issue_statuses.rb" timestamp="1560023113178">
+        <mark key="[" line="4" column="72" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/vuebass/tsconfig.test.json" timestamp="1555184241266">
         <mark key="[" line="1" column="14" />
@@ -199,6 +215,10 @@
         <mark key="]" line="31" column="9" />
         <mark key="." line="31" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/redmine/app/models/workflow_rule.rb" timestamp="1560022017063" />
+      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000008_add_ancestry_to_issues.rb" timestamp="1560023858565">
+        <mark key="[" line="2" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/README.md" timestamp="1552061665710">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -246,13 +266,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559983336233">
+      <file name="/Dummy.txt" timestamp="1560024126096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000003_create_projects.rb" timestamp="1560021479361">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000003_create_projects.rb" timestamp="1560023125000">
+        <mark key="[" line="5" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/redmine/db/schema.rb" timestamp="1560020072227" />
+      <file name="$USER_HOME$/workspace/redmine/db/schema.rb" timestamp="1560024316768" />
       <file name="$USER_HOME$/workspace/redmine/app/models/issue.rb" timestamp="1560020611135" />
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/package.json" timestamp="1552056808618">
         <mark key="[" line="8" column="5" />
@@ -294,40 +314,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBiZWxvbmdzX3RvIDpwcm9qZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBiZWxvbmdzX3RvIDpwcm9qZWN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdC5yZWZlcmVuY2VzIDpwcm9qZWN0LCBmb3JlaWduX2tleTogdHJ1ZQo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgZmtfcmFpbHNfLi4uICAoc3RhdHVzX2lkID0+IGlzc3VlX3N0YXR1c2VzLmlkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgZmtfcmFpbHNfLi4uICAocHJvamVjdF9pZCA9PiBwcm9qZWN0cy5pZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBnZW0gJ2JjcnlwdCcsICd+PiAzLjEuNycK</text>
+        <text encoding="base64">IyAgZmtfcmFpbHNfLi4uICAob3JnYW5pemF0aW9uX2lkID0+IG9yZ2FuaXphdGlvbnMuaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAo=</text>
+        <text encoding="base64">IyAgZmtfcmFpbHNfLi4uICAoY2F0ZWdvcnlfaWQgPT4gaXNzdWVfY2F0ZWdvcmllcy5pZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBnZW0gJ3JlZGlzJywgJ34+IDQuMCcK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBVc2UgUmVkaXMgYWRhcHRlciB0byBydW4gQWN0aW9uIENhYmxlIGluIHByb2R1Y3Rpb24K</text>
+        <text encoding="base64">IyBGb3JlaWduIEtleXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>bigint</text>
+        <text>false</text>
       </register>
     </registers>
     <search>
