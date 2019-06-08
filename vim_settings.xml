@@ -81,6 +81,15 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/Gemfile" timestamp="1559960332954">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="17" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/config/environments/development.rb" timestamp="1559960383975">
+        <mark key="[" line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/tsconfig.base.json" timestamp="1552060264914">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -104,6 +113,11 @@
         <mark key="]" line="4" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql/types/query_type.rb" timestamp="1559960856145">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/package.json" timestamp="1552060126035">
         <mark key="[" line="3" column="18" />
@@ -169,6 +183,9 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql/types/user_type.rb" timestamp="1559960690004">
+        <mark key="[" line="1" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/graphql-rails/datescalar/lib/graphql/rails/date_scalar.rb" timestamp="1549128783731">
         <mark key="[" line="0" column="0" />
       </file>
@@ -187,7 +204,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559919754007">
+      <file name="/Dummy.txt" timestamp="1559960498640">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
@@ -205,7 +222,7 @@
       <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/themed.ts" timestamp="1555179910789">
         <mark key="[" line="0" column="48" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559959643286">
+      <file name="/GraphQL.result.json" timestamp="1559959699227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/package.json" timestamp="1552056808618">
@@ -276,32 +293,32 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>docker-compose run --rm app bundle exec rails new . --force --database=mysql</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHR6ZGF0YQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbjIgXAo=</text>
+        <text encoding="base64">ICAgICAgY3VycmVudF91c2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG15c3FsLWRldiBcCg==</text>
+        <text encoding="base64">ICAgIGRlZiBjdXJyZW50X3VzZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG15c3FsLWNsaWVudCBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHlhcm4gXAo=</text>
+        <text encoding="base64">IyBXaW5kb3dzIGRvZXMgbm90IGluY2x1ZGUgem9uZWluZm8gZmlsZXMsIHNvIGJ1bmRsZSB0aGUgdHppbmZvLWRhdGEgZ2VtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5vZGVqcy1ucG0gXAo=</text>
+        <text encoding="base64">Z2VtICd0emluZm8tZGF0YScsIHBsYXRmb3JtczogWzptaW5ndywgOm1zd2luLCA6eDY0X21pbmd3LCA6anJ1YnldCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5vZGVqcy1jdXJyZW50IFwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSBhbHBpbmUtc2RrIFwK</text>
+        <text encoding="base64">ICAgIHR6ZGF0YQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
