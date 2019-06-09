@@ -8,6 +8,16 @@
         <mark key="]" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/hansel/Dockerfile" timestamp="1559927330537">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000006_create_issue_statuses.rb" timestamp="1560023113178">
+        <mark key="[" line="4" column="72" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000003_create_employees.rb" timestamp="1559978939462">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="24" />
@@ -17,8 +27,16 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/bin/db-reset" timestamp="1559978573367">
         <mark key="[" line="15" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/app/models/organization.rb" timestamp="1560047319611">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql/onore_schema.rb" timestamp="1560024589680">
         <mark key="[" line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_objects/application_object.rb" timestamp="1560025419100">
+        <mark key="[" line="0" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/vuebass/src/withTheme.ts" timestamp="1555222803130">
         <mark key="[" line="1" column="2" />
@@ -29,8 +47,6 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/test/models/employee_test.rb" timestamp="1559979047182">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/config/initializers/active_record_schema_format.rb" timestamp="1559983278529" />
-      <file name="$USER_HOME$/workspace/redmine/app/models/user.rb" timestamp="1559983631525" />
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Hero.jsx" timestamp="1540382834938">
         <mark key="[" line="1" column="29" />
       </file>
@@ -41,6 +57,12 @@
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000005_create_issue_categories.rb" timestamp="1560023117697">
         <mark key="[" line="4" column="72" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/app/models/user.rb" timestamp="1559981865635">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/index.tsx" timestamp="1555173898010">
         <mark key="[" line="0" column="0" />
@@ -56,17 +78,33 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/config/environments/development.rb" timestamp="1559960383975">
+        <mark key="[" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_schemas/application_schema.rb" timestamp="1560025597399">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/app/controllers/application_controller.rb" timestamp="1560047540034">
+        <mark key="[" line="2" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/vuebass/public/index.html" timestamp="1555218612991">
         <mark key="[" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_objects/user_object.rb" timestamp="1560025488657">
         <mark key="[" line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/redmine/app/models/project.rb" timestamp="1559983476876" />
+      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000008_add_ancestry_to_issues.rb" timestamp="1560023858565">
+        <mark key="[" line="2" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/models/member.rb" timestamp="1559981841806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/config/routes.rb" timestamp="1560047696452">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/models/issue_category.rb" timestamp="1560047330895">
         <mark key="[" line="4" column="21" />
@@ -76,6 +114,15 @@
       </file>
       <file name="$USER_HOME$/workspace/chrogo/shiranami/Gemfile" timestamp="1559918108515">
         <mark key="[" line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/src/index.ts" timestamp="1552057563404">
+        <mark key="[" line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/spec/factories/users.rb" timestamp="1559982128598">
+        <mark key="[" line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/app/models/issue_status.rb" timestamp="1560047327217">
+        <mark key="[" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/hansel/Gemfile.lock" timestamp="1559923116915">
         <mark key="[" line="0" column="0" />
@@ -95,18 +142,29 @@
         <mark key="]" line="45" column="38" />
         <mark key="." line="45" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000004_create_projects.rb" timestamp="1559979397100">
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_schemas/concerns/graphql_schemable.rb" timestamp="1560025324011">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql/types/user_type.rb" timestamp="1559960690004">
+        <mark key="[" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/models/project.rb" timestamp="1560047314610">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/redmine/db/migrate/001_setup.rb" timestamp="1559983351084" />
       <file name="$USER_HOME$/workspace/graphql-rails/datescalar/lib/graphql/rails/date_scalar.rb" timestamp="1549128783731">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560047869550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
@@ -115,7 +173,10 @@
       <file name="$USER_HOME$/workspace/chrogo/vuebass/src/theme.ts" timestamp="1555224252969">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559978463663">
+      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/themed.ts" timestamp="1555179910789">
+        <mark key="[" line="0" column="48" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1560048003511">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_queries/concerns/graphql_queryable.rb" timestamp="1560025217655">
@@ -128,102 +189,29 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Menu.jsx" timestamp="1540356959331">
-        <mark key="[" line="0" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/controllers/graphql_controller.rb" timestamp="1560024665497" />
-      <file name="$USER_HOME$/workspace/chrogo/onore/spec/factories/members.rb" timestamp="1559981933118">
-        <mark key="[" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/tslint.json" timestamp="1540438198835">
-        <mark key="[" line="1" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000004_create_members.rb" timestamp="1560021486762">
-        <mark key="[" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/hansel/Dockerfile" timestamp="1559927330537">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000006_create_issue_statuses.rb" timestamp="1560023113178">
-        <mark key="[" line="4" column="72" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/models/organization.rb" timestamp="1560047319611">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/redmine/app/models/principal.rb" timestamp="1559983577742" />
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_objects/application_object.rb" timestamp="1560025419100">
-        <mark key="[" line="0" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/models/user.rb" timestamp="1559981865635">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/config/initializers/assets.rb" timestamp="1559983263516" />
-      <file name="$USER_HOME$/workspace/redmine/app/models/issue_category.rb" timestamp="1559983713697" />
-      <file name="$USER_HOME$/workspace/chrogo/onore/config/environments/development.rb" timestamp="1559960383975">
-        <mark key="[" line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_schemas/application_schema.rb" timestamp="1560025597399">
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/controllers/application_controller.rb" timestamp="1560047540034">
-        <mark key="[" line="2" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/redmine/app/models/workflow_rule.rb" timestamp="1560022017063" />
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000008_add_ancestry_to_issues.rb" timestamp="1560023858565">
-        <mark key="[" line="2" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/config/routes.rb" timestamp="1560047696452">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
-      </file>
-      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/src/index.ts" timestamp="1552057563404">
-        <mark key="[" line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/spec/factories/users.rb" timestamp="1559982128598">
-        <mark key="[" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/models/issue_status.rb" timestamp="1560047327217">
-        <mark key="[" line="4" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000004_create_projects.rb" timestamp="1559979397100">
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="5" column="52" />
-        <mark key="^" line="5" column="52" />
-        <mark key="." line="5" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/redmine/app/models/issue_status.rb" timestamp="1559983793703" />
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql/types/user_type.rb" timestamp="1559960690004">
-        <mark key="[" line="1" column="36" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1560047869550">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/themed.ts" timestamp="1555179910789">
-        <mark key="[" line="0" column="48" />
-      </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000003_create_projects.rb" timestamp="1560023125000">
         <mark key="[" line="5" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/redmine/db/schema.rb" timestamp="1560024316768" />
-      <file name="$USER_HOME$/workspace/redmine/app/models/issue.rb" timestamp="1560020611135" />
       <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000002_devise_create_users.rb" timestamp="1560021160831">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="8" column="60" />
         <mark key="." line="8" column="60" />
         <mark key="^" line="38" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Menu.jsx" timestamp="1540356959331">
+        <mark key="[" line="0" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/spec/factories/members.rb" timestamp="1559981933118">
+        <mark key="[" line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/corporate-site/tslint.json" timestamp="1540438198835">
+        <mark key="[" line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_schemas/concerns/abstract_schema_definition.rb" timestamp="1560024909603">
         <mark key="[" line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000004_create_members.rb" timestamp="1560021486762">
+        <mark key="[" line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
