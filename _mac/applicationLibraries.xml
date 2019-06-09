@@ -669,6 +669,22 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/chromedriver-helper-2.1.1/concourse" />
       </excluded>
     </library>
+    <library name="coderay (v1.1.2, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/coderay-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/coderay-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/coderay-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/coderay-1.1.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/coderay-1.1.2/bin" />
+      </excluded>
+    </library>
     <library name="coffee-rails (v4.2.2, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -790,6 +806,55 @@
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/2.6.0/csv/core_ext" />
       </excluded>
+    </library>
+    <library name="debase (v0.2.2, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.2/test" />
+      </excluded>
+    </library>
+    <library name="debase (v0.2.3.beta5, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/test" />
+      </excluded>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.5, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.5/lib" />
+      </SOURCES>
     </library>
     <library name="devise (v4.6.2, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
@@ -1763,7 +1828,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nio4r-2.3.1/spec" />
@@ -1771,7 +1835,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nio4r-2.3.1/spec" />
@@ -1817,14 +1880,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.10.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.10.3/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.10.3/lib" />
@@ -1972,6 +2033,71 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/promise.rb-0.7.4/spec" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/promise.rb-0.7.4/config" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/promise.rb-0.7.4/benchmark" />
+      </excluded>
+    </library>
+    <library name="pry (v0.12.2, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-0.12.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-0.12.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-0.12.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-0.12.2/bin" />
+      </excluded>
+    </library>
+    <library name="pry-byebug (v3.7.0, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-byebug-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-byebug-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-doc (v1.0.0, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-doc-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-doc-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-doc-1.0.0/libexec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-doc-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-doc-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-doc-1.0.0/libexec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-doc-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-doc-1.0.0/libexec" />
+      </excluded>
+    </library>
+    <library name="pry-rails (v0.3.9, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-rails-0.3.9/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-rails-0.3.9/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-rails-0.3.9/scenarios" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-rails-0.3.9/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-rails-0.3.9/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-rails-0.3.9/scenarios" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-rails-0.3.9/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-rails-0.3.9/scenarios" />
       </excluded>
     </library>
     <library name="psych (v2.1.0.1, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -2827,6 +2953,25 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/rubocop-rspec-1.33.0/config" />
       </excluded>
     </library>
+    <library name="ruby-debug-ide (v0.7.0.beta7, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+      </excluded>
+    </library>
     <library name="ruby-openid (v2.3.0, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3448,12 +3593,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
