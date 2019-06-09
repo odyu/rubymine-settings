@@ -41,7 +41,7 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql/onore_schema.rb" timestamp="1560024589680">
         <mark key="[" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphqlobjects/organization_object.rb" timestamp="1560055679083">
+      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphqlobjects/organization_object.rb" timestamp="1560089311286">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="33" />
         <mark key="." line="3" column="33" />
@@ -149,6 +149,9 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_objects/user_object.rb" timestamp="1560025488657">
         <mark key="[" line="0" column="36" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/74684607-3818-42f5-8ff0-e1e8f01256ab/console.sql" timestamp="1560088046016">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000008_add_ancestry_to_issues.rb" timestamp="1560023858565">
         <mark key="[" line="2" column="42" />
       </file>
@@ -216,7 +219,7 @@
         <mark key="^" line="15" column="10" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/a.sql" timestamp="1560088012929">
+      <file name="/a.sql" timestamp="1560088023641">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_schemas/concerns/graphql_schemable.rb" timestamp="1560025324011">
@@ -247,7 +250,12 @@
         <mark key="." line="63" column="20" />
       </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/graphql-1.9.6/lib/graphql/schema.rb" timestamp="1560055374558" />
-      <file name="/Dummy.txt" timestamp="1560088012939">
+      <file name="$USER_HOME$/workspace/chrogo/graphql-rails/graphql-rails.gemspec" timestamp="1560090041532">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560089870376">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
@@ -259,7 +267,7 @@
       <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/themed.ts" timestamp="1555179910789">
         <mark key="[" line="0" column="48" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1560049243573">
+      <file name="/GraphQL.result.json" timestamp="1560089572782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_queries/concerns/graphql_queryable.rb" timestamp="1560025217655">
@@ -312,8 +320,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TODO: Put your gem's website or public repo URL here.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDpjb25maWd1cmVfaW52aXRlX3BhcmFtcywgb25seTogWzpjcmVhdGVdCg==</text>
@@ -343,7 +351,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>TODO: Put your gem's website or public repo URL here.</text>
       </register>
     </registers>
     <search>
