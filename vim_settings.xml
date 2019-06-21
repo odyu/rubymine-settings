@@ -29,14 +29,12 @@
         <mark key="." line="234" column="27" />
         <mark key="^" line="234" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/config/initializers/cookies_serializer.rb" timestamp="1560055840693" />
       <file name="$USER_HOME$/workspace/chrogo/vuebass/src/withTheme.ts" timestamp="1555222803130">
         <mark key="[" line="1" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/stylePropType.ts" timestamp="1555170707101">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/controllers/users/passwords_controller.rb" timestamp="1560056551450" />
       <file name="$USER_HOME$/workspace/chrogo/onore/test/models/employee_test.rb" timestamp="1559979047182">
         <mark key="[" line="2" column="22" />
       </file>
@@ -120,7 +118,6 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/app/models/issue_category.rb" timestamp="1560047330895">
         <mark key="[" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise_invitable-2.0.1/app/controllers/devise/invitations_controller.rb" timestamp="1560087797755" />
       <file name="$USER_HOME$/workspace/chrogo/onore/spec/factories/organizations.rb" timestamp="1559981963703">
         <mark key="[" line="1" column="4" />
       </file>
@@ -172,14 +169,13 @@
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_objects/issue_object.rb" timestamp="1560094238235" />
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
         <mark key="[" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/vuebass/src/theme.ts" timestamp="1555224252969">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1560092908310">
+      <file name="/GraphQL.result.json" timestamp="1561133217456">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_queries/concerns/graphql_queryable.rb" timestamp="1560025217655">
@@ -203,7 +199,6 @@
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Menu.jsx" timestamp="1540356959331">
         <mark key="[" line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_objects/organization_object.rb" timestamp="1560093625159" />
       <file name="$USER_HOME$/workspace/chrogo/onore/app/views/devise/registrations/edit.html.erb" timestamp="1560049841984">
         <mark key="[" line="25" column="19" />
         <mark key="]" line="25" column="19" />
@@ -218,8 +213,6 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000004_create_members.rb" timestamp="1560021486762">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000009_devise_invitable_add_to_users.rb" timestamp="1560056282740" />
-      <file name="$USER_HOME$/workspace/chrogo/graphql_on_rails/bin/rspec" timestamp="1560091223171" />
       <file name="$USER_HOME$/workspace/chrogo/hansel/Dockerfile" timestamp="1559927330537">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -247,8 +240,6 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_objects/application_object.rb" timestamp="1560025419100">
         <mark key="[" line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise-4.6.2/app/controllers/devise/registrations_controller.rb" timestamp="1560052851429" />
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphqlobjects/application_object.rb" timestamp="1560054325240" />
       <file name="$USER_HOME$/workspace/chrogo/graphql_on_rails/spec/graphql_on_rails_spec.rb" timestamp="1560092224886">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -268,14 +259,12 @@
         <mark key="]" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/config/database.yml" timestamp="1560087932082" />
       <file name="$USER_HOME$/workspace/chrogo/onore/config/environments/development.rb" timestamp="1559960383975">
         <mark key="[" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_schemas/application_schema.rb" timestamp="1560025597399">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise-4.6.2/app/views/devise/shared/_error_messages.html.erb" timestamp="1560053213451" />
       <file name="$USER_HOME$/workspace/chrogo/onore/app/controllers/application_controller.rb" timestamp="1560054065910">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="4" column="0" />
@@ -308,8 +297,6 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/controllers/users/confirmations_controller.rb" timestamp="1560056535397" />
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/views/devise/registrations/new.html.erb" timestamp="1560049864572" />
       <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/src/index.ts" timestamp="1552057563404">
         <mark key="[" line="4" column="32" />
       </file>
@@ -322,7 +309,6 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/app/models/issue_status.rb" timestamp="1560047327217">
         <mark key="[" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/graphql_on_rails/lib/graphql_on_rails.rb" timestamp="1560092006939" />
       <file name="$USER_HOME$/workspace/chrogo/onore/lib/generators/graphql/object_generator.rb" timestamp="1560093709008">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -340,7 +326,6 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_functions/find_record_function.rb" timestamp="1560055410597">
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/graphql-1.9.6/lib/graphql/schema.rb" timestamp="1560055374558" />
       <file name="$USER_HOME$/workspace/chrogo/onore/lib/generators/graphql/templates/object.erb" timestamp="1560093500799">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -363,7 +348,6 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_schemas/concerns/abstract_schema_definition.rb" timestamp="1560024909603">
         <mark key="[" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/graphql-1.9.6/lib/generators/graphql/type_generator.rb" timestamp="1560093411952" />
     </filemarks>
     <jumps>
       <jump line="2" column="0" filename="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Home.jsx" />
