@@ -67,11 +67,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/types/project_queries_type.rb" timestamp="1561171903267">
+      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/types/project_queries_type.rb" timestamp="1561219813894">
         <mark key="[" line="20" column="8" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="20" column="25" />
-        <mark key="^" line="28" column="12" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="33" column="5" />
+        <mark key="^" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/config/application.rb" timestamp="1560055829458">
         <mark key="[" line="12" column="0" />
@@ -121,10 +121,10 @@
         <mark key="[" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/loaders/record_loader.rb" timestamp="1561171687981">
-        <mark key="[" line="24" column="7" />
-        <mark key="]" line="24" column="6" />
-        <mark key="." line="24" column="6" />
-        <mark key="^" line="24" column="6" />
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="26" column="6" />
+        <mark key="." line="26" column="6" />
+        <mark key="^" line="26" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/spec/factories/organizations.rb" timestamp="1559981963703">
         <mark key="[" line="1" column="4" />
@@ -256,6 +256,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/db/migrate/00000000000004_create_tasks.rb" timestamp="1561220040676" />
       <file name="$USER_HOME$/workspace/chrogo/onore/app/views/layouts/application.html.erb" timestamp="1560049102939">
         <mark key="[" line="11" column="8" />
       </file>
@@ -266,6 +267,9 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/db/migrate/00000000000003_create_contexts.rb" timestamp="1561219985630">
+        <mark key="[" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_objects/application_object.rb" timestamp="1560025419100">
         <mark key="[" line="0" column="49" />
