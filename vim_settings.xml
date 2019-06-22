@@ -28,6 +28,9 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/test/models/employee_test.rb" timestamp="1559979047182">
         <mark key="[" line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/components/Link.tsx" timestamp="1561224211038">
+        <mark key="[" line="7" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Hero.jsx" timestamp="1540382834938">
         <mark key="[" line="1" column="29" />
       </file>
@@ -63,6 +66,7 @@
         <mark key="[" line="7" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/.prettierrc" timestamp="1561220983971" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/lib/theme.ts" timestamp="1561223193701" />
       <file name="$USER_HOME$/workspace/chrogo/onore/app/models/issue_category.rb" timestamp="1560047330895">
         <mark key="[" line="4" column="21" />
       </file>
@@ -81,6 +85,11 @@
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/spec/factories/projects.rb" timestamp="1561171058195">
         <mark key="[" line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/.eslintrc.json" timestamp="1561223769334">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="26" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/spec/factories/projects.rb" timestamp="1559982380782">
         <mark key="[" line="5" column="4" />
@@ -179,7 +188,12 @@
         <mark key="[" line="4" column="9" />
       </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/graphql-1.9.6/lib/graphql/schema/member/base_dsl_methods.rb" timestamp="1561166451459" />
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/pages/_document.tsx" timestamp="1561222374343" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/pages/_document.tsx" timestamp="1561225082427">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="5" column="14" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/74684607-3818-42f5-8ff0-e1e8f01256ab/console.sql" timestamp="1560088046016">
         <mark key="[" line="0" column="0" />
       </file>
@@ -216,9 +230,10 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/pages/_app.tsx" timestamp="1561222343060">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/pages/_app.tsx" timestamp="1561224940393">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql/types/user_type.rb" timestamp="1559960690004">
         <mark key="[" line="1" column="36" />
@@ -227,8 +242,8 @@
         <mark key="[" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise-4.6.2/lib/devise/controllers/helpers.rb" timestamp="1561135068965" />
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/package.json" timestamp="1561222045584">
-        <mark key="[" line="8" column="39" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/package.json" timestamp="1561224636145">
+        <mark key="[" line="8" column="70" />
         <mark key="]" line="8" column="38" />
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="38" />
@@ -287,40 +302,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICJpc29tb3JwaGljLWZldGNoIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICJpc29tb3JwaGljLWZldGNoIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvdXQ7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTXlEb2N1bWVudDsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L1Byb3ZpZGVyPgo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8UHJvdmlkZXIgc3RvcmU9e2dldFN0b3JlKHVuZGVmaW5lZCwgcHJvcHMuc2VydmVyKX0+Cg==</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICJpc29tb3JwaGljLWZldGNoIjsK</text>
+        <text encoding="base64">ICAgICksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHJvdmlkZXIgfSBmcm9tICJyZWFjdC1yZWR1eCI7Cg==</text>
+        <text encoding="base64">ICAgICAgPC9SZWFjdC5GcmFnbWVudD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5vdXQsCg==</text>
+        <text encoding="base64">ICAgICAgICB7c2hlZXRzLmdldFN0eWxlRWxlbWVudCgpfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG91dCA9IHsgc3RhdGUsIHNlcnZlciB9IGFzIGFueTsK</text>
+        <text encoding="base64">ICAgICAgICB7aW5pdGlhbFByb3BzLnN0eWxlc30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
     </registers>
     <search>
