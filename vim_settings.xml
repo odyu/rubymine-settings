@@ -237,10 +237,11 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_functions/find_record_function.rb" timestamp="1560055410597">
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/package.json" timestamp="1561297523656">
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/package.json" timestamp="1561297756217">
         <mark key="[" line="36" column="23" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1561167438427">
         <mark key="[" line="0" column="0" />
@@ -286,10 +287,10 @@
       <file name="$USER_HOME$/workspace/chrogo/voyage/app/controllers/application_controller.rb" timestamp="1561135080459">
         <mark key="[" line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/.eslintrc.js" timestamp="1561281692694">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/.eslintrc.js" timestamp="1561298448772">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -301,40 +302,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">IiI6ICJeMS4zLjciLAo=</text>
+        <text encoding="base64">ICB0c2NvbmZpZ1Jvb3REaXI6ICIuIgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IiI6ICJeMS4zLjciLAo=</text>
+        <text encoding="base64">ICB0c2NvbmZpZ1Jvb3REaXI6ICIuIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiI6ICJeMS42LjAiLAo=</text>
+        <text encoding="base64">ICBwcm9qZWN0OiAiLi90c2NvbmZpZy5qc29uIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IiI6ICJeNy4xMy4wIiwK</text>
+        <text encoding="base64">ICB1c2VKU1hUZXh0Tm9kZTogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IiI6ICJeMy4xLjAiLAo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IiI6ICJeNi4yLjEiLAo=</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiI6ICJeMi4xNy4zIiwK</text>
+        <text encoding="base64">ICAgICAgdmVyc2lvbjogICdkZXRlY3QnLCAgLy8gVGVsbHMgZXNsaW50LXBsdWdpbi1yZWFjdCB0byBhdXRvbWF0aWNhbGx5IGRldGVjdCB0aGUgdmVyc2lvbiBvZiBSZWFjdCB0byB1c2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IiI6ICJeNS4wLjAiLAo=</text>
+        <text encoding="base64">ICAgIHJlYWN0OiAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IiI6ICJeMTcuMS4wIiwK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text>// Specifies the ESLint parser</text>
       </register>
     </registers>
     <search>
