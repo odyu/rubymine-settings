@@ -237,11 +237,10 @@
       <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_functions/find_record_function.rb" timestamp="1560055410597">
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/package.json" timestamp="1561281937921">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="6" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/package.json" timestamp="1561297523656">
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1561167438427">
         <mark key="[" line="0" column="0" />
@@ -302,34 +301,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiI6ICJeMS4zLjciLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>src</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IiI6ICJeMS4zLjciLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">IiI6ICJeMS42LjAiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">IiI6ICJeNy4xMy4wIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">IiI6ICJeMy4xLjAiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">IiI6ICJeNi4yLjEiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmVDbG9zaW5nOiAnbmV2ZXInLAo=</text>
+        <text encoding="base64">IiI6ICJeMi4xNy4zIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZnRlck9wZW5pbmc6ICdhbGxvdy1tdWx0aWxpbmUnLAo=</text>
+        <text encoding="base64">IiI6ICJeNS4wLjAiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmVTZWxmQ2xvc2luZzogJ2Fsd2F5cycsCg==</text>
+        <text encoding="base64">IiI6ICJeMTcuMS4wIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbG9zaW5nU2xhc2g6ICduZXZlcicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
