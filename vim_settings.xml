@@ -3,214 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/spec/factories/helper.rb" timestamp="1561171448725">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="8" column="79" />
-        <mark key="." line="8" column="79" />
-        <mark key="^" line="8" column="86" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000001_create_organizations.rb" timestamp="1560049352030">
-        <mark key="[" line="5" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/bin/db-reset" timestamp="1559978573367">
-        <mark key="[" line="15" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql/onore_schema.rb" timestamp="1560024589680">
-        <mark key="[" line="4" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/withTheme.ts" timestamp="1555222803130">
-        <mark key="[" line="1" column="2" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/stylePropType.ts" timestamp="1555170707101">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/test/models/employee_test.rb" timestamp="1559979047182">
-        <mark key="[" line="2" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/components/Link.tsx" timestamp="1561268599952">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Hero.jsx" timestamp="1540382834938">
-        <mark key="[" line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000005_create_issue_categories.rb" timestamp="1560023117697">
-        <mark key="[" line="4" column="72" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/index.tsx" timestamp="1555173898010">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/views/tops/index.html.erb" timestamp="1560087555675">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/types/project_queries_type.rb" timestamp="1561219813894">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="33" column="5" />
-        <mark key="." line="33" column="5" />
-        <mark key="^" line="33" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/vuebass/public/index.html" timestamp="1555218612991">
-        <mark key="[" line="12" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/contexts/viewer_context.rb" timestamp="1561164976770">
-        <mark key="[" line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/spec/factories/tasks.rb" timestamp="1561171077301">
-        <mark key="[" line="7" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/lib/theme.ts" timestamp="1561268648418">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="20" />
-        <mark key="^" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/models/issue_category.rb" timestamp="1560047330895">
-        <mark key="[" line="4" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/loaders/record_loader.rb" timestamp="1561171687981">
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="26" column="6" />
-        <mark key="." line="26" column="6" />
-        <mark key="^" line="26" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/spec/factories/organizations.rb" timestamp="1559981963703">
-        <mark key="[" line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/shiranami/Gemfile" timestamp="1559918108515">
-        <mark key="[" line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/spec/factories/projects.rb" timestamp="1561171058195">
-        <mark key="[" line="5" column="44" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/node_modules/@material-ui/core/Link/Link.d.ts" timestamp="1561303579746" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/node_modules/@material-ui/core/SvgIcon/SvgIcon.d.ts" timestamp="1561303231696" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/lib/ProTip.tsx" timestamp="1561303251001">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/.eslintrc.json" timestamp="1561269194827">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/spec/factories/projects.rb" timestamp="1559982380782">
-        <mark key="[" line="5" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/types/current_user_query_type.rb" timestamp="1561136553199">
-        <mark key="[" line="2" column="32" />
-      </file>
-      <file name="/a.sql" timestamp="1560088023641">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/graphql-rails/datescalar/lib/graphql/rails/date_scalar.rb" timestamp="1549128783731">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/config/locales/graphql.en.yml" timestamp="1561169313742">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/types/mutation_type.rb" timestamp="1561166654828">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="42" />
-        <mark key="." line="5" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/types/project_type.rb" timestamp="1561169894265">
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="6" column="51" />
-        <mark key="." line="6" column="51" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Main.js" timestamp="1540362897941">
-        <mark key="[" line="3" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/theme.ts" timestamp="1555224252969">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1561268144577">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphqlschemas/application_schema.rb" timestamp="1560054363428">
-        <mark key="[" line="8" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/.prettierrc.js" timestamp="1561301468733">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/src/components/Menu.jsx" timestamp="1540356959331">
-        <mark key="[" line="0" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/spec/factories/members.rb" timestamp="1559981933118">
-        <mark key="[" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/corporate-site/tslint.json" timestamp="1540438198835">
-        <mark key="[" line="1" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/db/seeds/development/users.seeds.rb" timestamp="1561170880044">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000004_create_members.rb" timestamp="1560021486762">
-        <mark key="[" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/views/layouts/application.html.erb" timestamp="1560049102939">
-        <mark key="[" line="11" column="8" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/views/tops/index.html.slim" timestamp="1561134691754">
-        <mark key="[" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/db/migrate/00000000000003_create_contexts.rb" timestamp="1561219985630">
-        <mark key="[" line="9" column="53" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_objects/application_object.rb" timestamp="1560025419100">
-        <mark key="[" line="0" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/lib/generators/graphql/object.erb" timestamp="1560093039754">
-        <mark key="[" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/spec/factories/contexts.rb" timestamp="1561171070136">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/config/environments/development.rb" timestamp="1559960383975">
-        <mark key="[" line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_schemas/application_schema.rb" timestamp="1560025597399">
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/db/seeds/development/projects.seeds.rb" timestamp="1561170849808">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/lib/generators/graphql/object/templates/object.erb" timestamp="1560094560163">
-        <mark key="[" line="4" column="9" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/74684607-3818-42f5-8ff0-e1e8f01256ab/console.sql" timestamp="1560088046016">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000008_add_ancestry_to_issues.rb" timestamp="1560023858565">
-        <mark key="[" line="2" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/typescript3-project-reference-example/packages/logger/src/index.ts" timestamp="1552057563404">
-        <mark key="[" line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/types/base_object.rb" timestamp="1561169874899">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/spec/factories/users.rb" timestamp="1559982128598">
-        <mark key="[" line="2" column="4" />
-      </file>
-      <file name="/Ruby Console" timestamp="1560051340994">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/models/issue_status.rb" timestamp="1560047327217">
-        <mark key="[" line="4" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/types/current_user_query_interface_type.rb" timestamp="1561165070516">
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="6" column="42" />
-        <mark key="." line="6" column="42" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/node_modules/@types/next-server/link.d.ts" timestamp="1561303494009" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/lib/Link.tsx" timestamp="1561306465515">
+        <mark key="[" line="34" column="49" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/node_modules/@types/next-server/router.d.ts" timestamp="1561300816866" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/pages/about.tsx" timestamp="1561282015824">
@@ -219,73 +34,21 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/db/seeds/development/contexts.seeds.rb" timestamp="1561171197620">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/pages/_app.tsx" timestamp="1561307705424">
+        <mark key="[" line="60" column="16" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/pages/_app.tsx" timestamp="1561300148803">
-        <mark key="[" line="16" column="2" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql/types/user_type.rb" timestamp="1559960690004">
-        <mark key="[" line="1" column="36" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_functions/find_record_function.rb" timestamp="1560055410597">
-        <mark key="[" line="0" column="16" />
-      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/node_modules/@types/react/index.d.ts" timestamp="1561306064852" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/package.json" timestamp="1561300224424">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561167438427">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/vuebass/src/components/themed.ts" timestamp="1555179910789">
-        <mark key="[" line="0" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/types/query_type.rb" timestamp="1561169924280">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/types/current_user_queries_type.rb" timestamp="1561169991406">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/db/seeds/development/tasks.seeds.rb" timestamp="1561171207292">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="2" column="73" />
-        <mark key="." line="2" column="73" />
-        <mark key="^" line="2" column="73" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/db/migrate/00000000000003_create_projects.rb" timestamp="1560023125000">
-        <mark key="[" line="5" column="77" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/types/current_user_type.rb" timestamp="1561169422760">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="9" column="68" />
-        <mark key="." line="9" column="68" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/concerns/context_methods.rb" timestamp="1561165808982">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/graphql/types/project_query_interface_type.rb" timestamp="1561136865138">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/onore/app/graphql_schemas/concerns/abstract_schema_definition.rb" timestamp="1560024909603">
-        <mark key="[" line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/controllers/application_controller.rb" timestamp="1561135080459">
-        <mark key="[" line="18" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/.eslintrc.js" timestamp="1561300489358">
-        <mark key="[" line="58" column="72" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/node_modules/@types/next/link.d.ts" timestamp="1561303526644" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/.eslintrc.js" timestamp="1561302993520">
+        <mark key="[" line="86" column="14" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -301,38 +64,38 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>false</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CkxpbmsucHJvcFR5cGVzID0gewogIGFjdGl2ZUNsYXNzTmFtZTogUHJvcFR5cGVzLnN0cmluZywKICBhczogUHJvcFR5cGVzLnN0cmluZywKICBjbGFzc05hbWU6IFByb3BUeXBlcy5zdHJpbmcsCiAgaHJlZjogUHJvcFR5cGVzLnN0cmluZywKICBpbm5lclJlZjogUHJvcFR5cGVzLm9uZU9mVHlwZShbUHJvcFR5cGVzLmZ1bmMsIFByb3BUeXBlcy5vYmplY3RdKSwKICBuYWtlZDogUHJvcFR5cGVzLmJvb2wsCiAgb25DbGljazogUHJvcFR5cGVzLmZ1bmMsCiAgcHJlZmV0Y2g6IFByb3BUeXBlcy5ib29sLAogIHJvdXRlcjogUHJvcFR5cGVzLnNoYXBlKHsKICAgIHBhdGhuYW1lOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgfSkuaXNSZXF1aXJlZCwKfTs=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9KS5pc1JlcXVpcmVkLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZGQgcGF0aG5hbWU6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gTGluayhwcm9wcykgewogIGNvbnN0IHsgYWN0aXZlQ2xhc3NOYW1lLCByb3V0ZXIsIGNsYXNzTmFtZTogY2xhc3NOYW1lUHJvcHMsIGlubmVyUmVmLCBuYWtlZCwgLi4ub3RoZXIgfSA9IHByb3BzOwo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPENvbXBvbmVudCB7Li4ucGFnZVByb3BzfSAvPgoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMudG9vbGJhcn0gLz4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfX0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB9KSwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtjbGFzc2VzLmRyYXdlckNsb3NlXTogIW9wZW4sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmVmZXRjaDogUHJvcFR5cGVzLmJvb2wsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtjbGFzc2VzLmRyYXdlck9wZW5dOiBvcGVuLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBocmVmOiBQcm9wVHlwZXMuc3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwYXBlcjogY2xzeCh7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
