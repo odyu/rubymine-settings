@@ -11,7 +11,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/lib/generators/graphql/input_object_generator.rb" timestamp="1561818202840" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/config/routes.rb" timestamp="1561787128817">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
@@ -33,22 +32,20 @@
         <mark key="^" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/bin/reset" timestamp="1561823065646" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/db/seeds/development/contexts.seeds.rb" timestamp="1561774893932">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client-next/pages/_app.tsx" timestamp="1561780133121" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/index.tsx" timestamp="1561824459974">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/App.tsx" timestamp="1561779944747">
-        <mark key="[" line="4" column="56" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/App.tsx" timestamp="1561824966430">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/config/initializers/global.rb" timestamp="1561786942770">
         <mark key="[" line="1" column="0" />
@@ -59,7 +56,6 @@
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/lib/theme.ts" timestamp="1561780053777">
         <mark key="[" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client-next/next.config.js" timestamp="1561786097654" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/.eslintignore" timestamp="1561778042909">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
@@ -71,15 +67,15 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client-next/package.json" timestamp="1561779135980" />
-      <file name="$USER_HOME$/workspace/chrogo/voyage/config/initializers/config.rb" timestamp="1561786898400" />
       <file name="/Dummy.txt" timestamp="1561824640821">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1561777060617">
+      <file name="/GraphQL.result.json" timestamp="1561824843414">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/lib/generators/graphql/query_generator.rb" timestamp="1561818206754" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/__tests__/App.test.tsx" timestamp="1561825107333">
+        <mark key="[" line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/db/seeds/development/tasks.seeds.rb" timestamp="1561774904234">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="8" />
@@ -101,7 +97,6 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client-next/lib/theme.ts" timestamp="1561779338760" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/lib/generators/client/config_generator.rb" timestamp="1561823712267">
         <mark key="[" line="31" column="50" />
         <mark key="]" line="31" column="0" />
@@ -140,7 +135,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -149,31 +144,31 @@
         <text encoding="base64">XDxleHBlY3RcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW1nIHNyYz17bG9nb30gY2xhc3NOYW1lPSJBcHAtbG9nbyIgYWx0PSJsb2dvIiAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29uZmlnOwo=</text>
+        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29uZmlnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBob3N0Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnOiBDb25maWcgPSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBob3N0Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnOiBDb25maWcgPSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
