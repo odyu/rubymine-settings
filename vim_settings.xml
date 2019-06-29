@@ -34,10 +34,9 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/pages/_app.tsx" timestamp="1561307705424">
-        <mark key="[" line="60" column="16" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/pages/_app.tsx" timestamp="1561774212235">
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/node_modules/@types/react/index.d.ts" timestamp="1561306064852" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/package.json" timestamp="1561300224424">
