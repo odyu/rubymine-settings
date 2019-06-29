@@ -6,10 +6,10 @@
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/public/index.html" timestamp="1561779875666">
         <mark key="[" line="4" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/lib/generators/client/templates/config.ts.erb" timestamp="1561819427462">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/lib/generators/client/templates/config.ts.erb" timestamp="1561820898371">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/lib/generators/graphql/input_object_generator.rb" timestamp="1561818202840" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/config/routes.rb" timestamp="1561787128817">
@@ -26,6 +26,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/serviceWorker.ts" timestamp="1561778892671">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/db/seeds/development/contexts.seeds.rb" timestamp="1561774893932">
         <mark key="[" line="6" column="4" />
@@ -75,10 +81,11 @@
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/Gemfile" timestamp="1561786865457">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/Gemfile" timestamp="1561820113712">
+        <mark key="[" line="94" column="15" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="93" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/.prettierrc.js" timestamp="1561301468733">
         <mark key="[" line="5" column="17" />
@@ -86,15 +93,26 @@
         <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client-next/lib/theme.ts" timestamp="1561779338760" />
-      <file name="$USER_HOME$/workspace/chrogo/voyage/lib/generators/client/config_generator.rb" timestamp="1561819386759">
-        <mark key="[" line="19" column="58" />
-        <mark key="]" line="19" column="58" />
-        <mark key="." line="19" column="58" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/lib/generators/client/config_generator.rb" timestamp="1561821187032">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/package.json" timestamp="1561777130496">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="62" />
+        <mark key="." line="6" column="62" />
+        <mark key="^" line="6" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/.eslintrc.js" timestamp="1561778276335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/lib/config.ts" timestamp="1561820920960">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -111,41 +129,41 @@
       <jump line="16" column="6" filename="$USER_HOME$/workspace/chrogo/voyage/spec/routing/users/passwords_routing_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIF0K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.to_json</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgICAgIF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGVuZAogICAgICAgICAgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVzYyAiQ3JlYXRlcyBhIERldmlzZSBpbml0aWFsaXplciBhbmQgY29weSBsb2NhbGUgZmlsZXMgdG8geW91ciBhcHBsaWNhdGlvbi4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5kCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgR2xvYmFsLmhvc3QudG9faGFzaC5zZWxlY3QgeyB8eHwgR2xvYmFsLmhvc3RbeF0ua2luZF9vZj8oSGFzaCkgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQ2xpZW50OjpDb25maWdHZW5lcmF0b3IgPCBSYWlsczo6R2VuZXJhdG9yczo6TmFtZWRCYXNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBFZmZvcnRsZXNzIG11bHRpLWVudmlyb25tZW50IHNldHRpbmdzIGluIFJhaWxzLCBTaW5hdHJhLCBQYW5kcmlubyBhbmQgb3RoZXJzIChodHRwczovL2dpdGh1Yi5jb20vcmFpbHNjb25maWcvY29uZmlnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
