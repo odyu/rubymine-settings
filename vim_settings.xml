@@ -43,6 +43,11 @@
         <mark key="^" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppliedRoute.tsx" timestamp="1561861554993">
+        <mark key="[" line="7" column="63" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/db/seeds/development/contexts.seeds.rb" timestamp="1561774893932">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="4" />
@@ -55,8 +60,8 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/App.tsx" timestamp="1561830950295">
-        <mark key="[" line="35" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/App.tsx" timestamp="1561861585931">
+        <mark key="[" line="42" column="48" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
@@ -128,6 +133,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/node_modules/@types/react-router/index.d.ts" timestamp="1561861371742" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/package.json" timestamp="1561824513706">
         <mark key="[" line="6" column="64" />
         <mark key="]" line="6" column="62" />
@@ -170,7 +176,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>interface</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
@@ -182,22 +188,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQXBwTGF5b3V0Owo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICA8Um91dGUgey4uLnJlc3R9IHJlbmRlcj17cHJvcHMgPT4gPEMgey4uLnByb3BzfSB7Li4uY1Byb3BzfSAvPn0gLz47Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgKHsgY29tcG9uZW50OiBDLCBwcm9wczogY1Byb3BzLCAuLi5yZXN0IH0pID0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPEFwcE1haW4+e2NoaWxkcmVufTwvQXBwTWFpbj4K</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
