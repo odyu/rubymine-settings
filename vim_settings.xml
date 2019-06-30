@@ -110,14 +110,17 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/config/global/hosts.yml" timestamp="1561887991874" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppHeader.tsx" timestamp="1561864835834">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/lib/generators/client/config_generator.rb" timestamp="1561862790779">
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/app/controllers/application_controller.rb" timestamp="1561876533714" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/package.json" timestamp="1561887974560">
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="6" column="62" />
+        <mark key="." line="6" column="62" />
+        <mark key="^" line="6" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppDrawer.tsx" timestamp="1561864831798">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="49" column="0" />
