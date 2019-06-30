@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/pages/TaskList/index.tsx" timestamp="1561828736522" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/pages/TaskList/index.tsx" timestamp="1561865623008">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/public/index.html" timestamp="1561779875666">
         <mark key="[" line="4" column="74" />
       </file>
@@ -33,18 +37,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/pages/tasks/index.tsx" timestamp="1561827183136" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/index.tsx" timestamp="1561828797095">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/App.tsx" timestamp="1561863005512">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="49" column="29" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppRoot.tsx" timestamp="1561864850185">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/config/initializers/global.rb" timestamp="1561786942770">
         <mark key="[" line="1" column="0" />
@@ -63,12 +66,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppMain.tsx" timestamp="1561829964442">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppMain.tsx" timestamp="1561864845699">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/package.json" timestamp="1561824542614">
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/package.json" timestamp="1561864249410">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -82,11 +85,16 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1561824843414">
+      <file name="/GraphQL.result.json" timestamp="1561863831739">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/__tests__/App.test.tsx" timestamp="1561825107333">
         <mark key="[" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/lib/apolloClient.ts" timestamp="1561865181730">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/Gemfile" timestamp="1561820113712">
         <mark key="[" line="94" column="15" />
@@ -94,30 +102,24 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="93" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/config/global/hosts.yml" timestamp="1561862770438" />
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/pages/Home/index.tsx" timestamp="1561827898739" />
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppHeader.tsx" timestamp="1561862962497">
-        <mark key="[" line="37" column="16" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppHeader.tsx" timestamp="1561864835834">
+        <mark key="[" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppLayout.tsx" timestamp="1561830582216" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/lib/generators/client/config_generator.rb" timestamp="1561862790779">
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/node_modules/@types/react-router/index.d.ts" timestamp="1561861371742" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/package.json" timestamp="1561824513706">
         <mark key="[" line="6" column="64" />
         <mark key="]" line="6" column="62" />
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppDrawer.tsx" timestamp="1561830140161">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="75" column="46" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppDrawer.tsx" timestamp="1561864831798">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="76" column="46" />
+        <mark key="." line="49" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -135,40 +137,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZWFkb25seSBhcHA6IEFwcENvbmZpZzsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>scheme</text>
+        <text>tasks</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZWFkb25seSBhcHA6IEFwcENvbmZpZzsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZWFkb25seSBhcGk6IEFwaUNvbmZpZzsK</text>
+        <text encoding="base64">ICAgICAgc3RvY2sK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZWFkb25seSBhY2NvdW50OiBBY2NvdW50Q29uZmlnOwo=</text>
+        <text encoding="base64">ICAgICAgeWVhcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbW9kZWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvcnQ6IDQ1MDAK</text>
+        <text encoding="base64">ICAgIHJvY2tldEludmVudG9yeSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1YmRvbWFpbjogYXBwCg==</text>
+        <text encoding="base64">PFJvdXRlcj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcHA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlcj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9Sb3V0ZXI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
