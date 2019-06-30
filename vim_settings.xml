@@ -8,6 +8,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/config/initializers/session_store.rb" timestamp="1561881101543">
+        <mark key="[" line="5" column="94" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/public/index.html" timestamp="1561779875666">
         <mark key="[" line="4" column="74" />
       </file>
@@ -31,12 +34,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/config/initializers/cors.rb" timestamp="1561876236979">
+      <file name="$USER_HOME$/workspace/chrogo/voyage/config/initializers/cors.rb" timestamp="1561881325165">
         <mark key="[" line="8" column="64" />
         <mark key="]" line="8" column="64" />
         <mark key="." line="8" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/app/controllers/graphql_controller.rb" timestamp="1561876734445">
+      <file name="$USER_HOME$/workspace/chrogo/voyage/app/controllers/graphql_controller.rb" timestamp="1561880860791">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -69,17 +72,19 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/lib/apolloLinks.ts" timestamp="1561878997880">
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/lib/apolloLinks.ts" timestamp="1561879915068">
         <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="2" />
-        <mark key="." line="8" column="2" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+        <mark key="^" line="0" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/node_modules/apollo-boost/lib/index.d.ts" timestamp="1561880436688" />
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppMain.tsx" timestamp="1561864845699">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/package.json" timestamp="1561864249410">
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/package.json" timestamp="1561881674061">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -100,7 +105,11 @@
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/__tests__/App.test.tsx" timestamp="1561825107333">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/lib/apolloClient.ts" timestamp="1561878943294" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/lib/apolloClient.ts" timestamp="1561881689160">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppHeader.tsx" timestamp="1561864835834">
         <mark key="[" line="0" column="26" />
       </file>
@@ -130,41 +139,41 @@
       <jump line="16" column="6" filename="$USER_HOME$/workspace/chrogo/voyage/spec/routing/users/passwords_routing_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgc2V0Q29udGV4dCB9IGZyb20gJ2Fwb2xsby1saW5rLWNvbnRleHQnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>include</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdEVycm9yc0xpbmssCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2V0Q29udGV4dCB9IGZyb20gJ2Fwb2xsby1saW5rLWNvbnRleHQnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjcmVkZW50aWFsczogJ3NhbWUtb3JpZ2luJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgdXJpID0gYCR7Y29uZmlnLmhvc3RzLnNjaGVtZX06Ly8ke2NvbmZpZy5ob3N0cy5hcGkuc3ViZG9tYWlufS4ke2NvbmZpZy5ob3N0cy5kb21haW59OiR7Y29uZmlnLmhvc3RzLmFwaS5wb3J0fS8ke2NvbmZpZy5ob3N0cy5hcGkuZ3JhcGhxbFBhdGh9YDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgY29uZmlnIGZyb20gJy4vY29uZmlnJzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBvbGxvTGluayB9IGZyb20gJ2Fwb2xsby1saW5rJzsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgb25FcnJvciB9IGZyb20gJ2Fwb2xsby1saW5rLWVycm9yJzsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYXV0aG9yaXphdGlvbjogdG9rZW4gPyBgQmVhcmVyICR7dG9rZW59YCA6ICIiLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgLi4uaGVhZGVycywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjbGllbnQubXV0YXRlKHsgbXV0YXRpb246IENSRUFURV9GTEFTSF9NRVNTQUdFLCB2YXJpYWJsZXM6IHsgdHlwZTogJ2Vycm9yJywgdGV4dCB9IH0pOwo=</text>
+        <text encoding="base64">ICAgIGhlYWRlcnM6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
