@@ -26,6 +26,9 @@
         <mark key="]" line="8" column="64" />
         <mark key="." line="8" column="64" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/package.json" timestamp="1562246350096">
+        <mark key="[" line="10" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/javascript/components/HelloWorldTwo.js" timestamp="1561995644163" />
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/yarn" timestamp="1561904041568">
         <mark key="[" line="3" column="42" />
@@ -166,7 +169,6 @@
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/views/layouts/application.html.slim" timestamp="1561908818757">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/javascript/app/pages/AddProject.tsx" timestamp="1562173850061" />
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/config/application.rb" timestamp="1561905581506">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -252,9 +254,9 @@
         <mark key="." line="1" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/mutations/add_project.rb" timestamp="1562173199281">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
       </file>
     </filemarks>
     <jumps>
