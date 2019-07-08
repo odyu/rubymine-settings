@@ -271,8 +271,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000001_devise_create_users.rb" timestamp="1562592653313">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000005_create_team_memberships.rb" timestamp="1562592745943" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000001_devise_create_users.rb" timestamp="1562594383449">
+        <mark key="[" line="5" column="53" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -321,12 +322,17 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000004_create_teams.rb" timestamp="1562594440692">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/views/pages/index.html.slim" timestamp="1561905854403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000003_create_organization_memberships.rb" timestamp="1562592553894">
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000003_create_organization_memberships.rb" timestamp="1562592721369">
         <mark key="[" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/spring" timestamp="1562592275809">
@@ -353,6 +359,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000002_create_organizations.rb" timestamp="1562594369629">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/config/initializers/session_store.rb" timestamp="1561881101543">
         <mark key="[" line="5" column="94" />
@@ -395,6 +406,11 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000003_create_teams.rb" timestamp="1562592480539" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000005_create_todos.rb" timestamp="1562594585761">
+        <mark key="[" line="5" column="71" />
+        <mark key="]" line="5" column="54" />
+        <mark key="." line="5" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/controllers/graphql_controller.rb" timestamp="1561906732126">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -479,41 +495,41 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/chrogo/getting_things_done/app/javascript/app/pages/AddProject.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdC5yZWZlcmVuY2VzIDpvcmdhbml6YXRpb24sIGZvcmVpZ25fa2V5OiB0cnVlLCBudWxsOiBmYWxzZSwgaW5kZXg6IHRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>false, index: true</text>
       </register>
       <register name="-" type="4">
-        <text>Reset</text>
+        <text>false, index: true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdC5yZWZlcmVuY2VzIDpvcmdhbml6YXRpb24sIGZvcmVpZ25fa2V5OiB0cnVlLCBudWxsOiBmYWxzZSwgaW5kZXg6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgdC50ZXh0ICAgIDpkZXNjcmlwdGlvbiwgbnVsbDogZmFsc2UsIGxpbWl0OiAxNl83NzdfMjE1Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdC5yZWZlcmVuY2VzIDpvcmdhbml6YXRpb24sIGZvcmVpZ25fa2V5OiB0cnVlLCBudWxsOiBmYWxzZSwgaW5kZXg6IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzeXN0ZW0hICdiaW4vcmFpbHMgcmVzdGFydCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdXRzICJcbj09IFJlc3RhcnRpbmcgYXBwbGljYXRpb24gc2VydmVyID09Igo=</text>
+        <text encoding="base64">ICBzeXN0ZW0hICdiaW4vcmFpbHMgcmVzdGFydCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdXRzICJcbj09IFJlc3RhcnRpbmcgYXBwbGljYXRpb24gc2VydmVyID09Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzeXN0ZW0hICdiaW4vcmFpbHMgbG9nOmNsZWFyIHRtcDpjbGVhcicK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwdXRzICJcbj09IFJlbW92aW5nIG9sZCBsb2dzIGFuZCB0ZW1wZmlsZXMgPT0iCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzeXN0ZW0hICdiaW4vcmFpbHMgbG9nOmNsZWFyIHRtcDpjbGVhcicK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwdXRzICJcbj09IFJlbW92aW5nIG9sZCBsb2dzIGFuZCB0ZW1wZmlsZXMgPT0iCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
