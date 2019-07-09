@@ -3585,6 +3585,22 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/react-rails-2.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="record_with_operator (v1.0.1, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/record_with_operator-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/record_with_operator-1.0.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/record_with_operator-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/record_with_operator-1.0.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/record_with_operator-1.0.1/test" />
+      </excluded>
+    </library>
     <library name="redcarpet (v3.4.0, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4352,6 +4368,28 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-html-0.10.2/views" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-html-0.10.2/assets" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-html-0.10.2/public" />
+      </excluded>
+    </library>
+    <library name="simplecov-rcov (v0.2.3, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-rcov-0.2.3/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-rcov-0.2.3/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-rcov-0.2.3/views" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-rcov-0.2.3/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-rcov-0.2.3/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-rcov-0.2.3/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-rcov-0.2.3/views" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-rcov-0.2.3/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-rcov-0.2.3/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-rcov-0.2.3/views" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/simplecov-rcov-0.2.3/assets" />
       </excluded>
     </library>
     <library name="slim (v4.0.1, rbenv: 2.6.3) [gem]" type="rubylib">
