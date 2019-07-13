@@ -776,6 +776,27 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise-4.6.2/config" />
       </excluded>
     </library>
+    <library name="devise_invitable (v2.0.1, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise_invitable-2.0.1/app" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise_invitable-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise_invitable-2.0.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise_invitable-2.0.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise_invitable-2.0.1/app" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise_invitable-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise_invitable-2.0.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise_invitable-2.0.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise_invitable-2.0.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/devise_invitable-2.0.1/config" />
+      </excluded>
+    </library>
     <library name="did_you_mean (v1.0.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />

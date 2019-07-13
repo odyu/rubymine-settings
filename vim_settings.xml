@@ -3,47 +3,277 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/client/app/NavLinks.tsx" timestamp="1562422502388">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="46" />
+        <mark key="." line="20" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/users.rb" timestamp="1562984666782">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/20190713025304_create_members.rb" timestamp="1562991540648">
         <mark key="[" line="7" column="74" />
         <mark key="]" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/20190713052711_create_objectives.rb" timestamp="1563002252501">
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/20190713052711_create_objectives.rb" timestamp="1563005005771">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="16" />
         <mark key="." line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/javascript/packs/hello_react.jsx" timestamp="1561995602778">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppliedRoute.tsx" timestamp="1561861554993">
+        <mark key="[" line="7" column="63" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/user.rb" timestamp="1562984619344">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/private_team.rb" timestamp="1562597459213">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/yarn" timestamp="1562592290461">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/helper.rb" timestamp="1562858388326">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/mutation_type.rb" timestamp="1562339621324">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/requests/graphql_spec.rb" timestamp="1561906906941">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000006_create_projects.rb" timestamp="1562595908227">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/update" timestamp="1562592279144">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/parsers/project_filter.treetop" timestamp="1562251448444">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/query/current_user_spec.rb" timestamp="1562856770600">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/config/routes.rb" timestamp="1562678928481">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/lib/apolloClient.ts" timestamp="1561881689160">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/project_type.rb" timestamp="1562339655888">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/lib/tasks/auto_annotate_models.rake" timestamp="1562987052468">
         <mark key="[" line="52" column="25" />
         <mark key="]" line="52" column="25" />
         <mark key="." line="52" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/requests/users/confirmations_spec.rb" timestamp="1561906610408">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/javascript/packs/hello_react_one.jsx" timestamp="1561994964555">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/.rubocop.yml" timestamp="1562856920351">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/organizations.rb" timestamp="1562858399167">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/pages/TaskList/index.tsx" timestamp="1561865623713">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/lib/generators/client/templates/config.ts.erb" timestamp="1561862923726">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/lib/tasks/gql/schema.rake" timestamp="1562172597219">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/20190713034124_create_groups.rb" timestamp="1562995679307">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/organization.rb" timestamp="1562992008268">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/config/application.rb" timestamp="1561905581506">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/20190713023616_create_organizations.rb" timestamp="1562989351489">
-        <mark key="[" line="10" column="91" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/getting_things_done_schema.rb" timestamp="1562775311186">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/Layout.tsx" timestamp="1561830426367">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="2" />
+        <mark key="." line="11" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/app/controllers/graphql_controller.rb" timestamp="1561880860791">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/20190708133233_create_team_memberships.rb" timestamp="1562595927648">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/organization.rb" timestamp="1563005408783">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/development/memberships.seeds.rb" timestamp="1562682169617">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/20190713023616_create_organizations.rb" timestamp="1563005318387">
+        <mark key="[" line="5" column="32" />
         <mark key="]" line="10" column="5" />
         <mark key="." line="10" column="5" />
         <mark key="^" line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000005_create_projects.rb" timestamp="1562858433954">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/types/base_enum_spec.rb" timestamp="1562774337331">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/todos.rb" timestamp="1562858415861">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/organization_team.rb" timestamp="1562684497075">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/parsers/parser.rb" timestamp="1562254532436">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/views/layouts/application.html.erb" timestamp="1561996269870">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/group.rb" timestamp="1562992011480">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/config/initializers/record_with_operator.rb" timestamp="1562681964023">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="0" column="51" />
+        <mark key="." line="0" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/team_memberships.rb" timestamp="1562858407222">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/setup" timestamp="1562592272292">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/controllers/organizations_controller.rb" timestamp="1562858889905">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="16" column="57" />
+        <mark key="." line="16" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/webpack-dev-server" timestamp="1562592286788">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/models/user_team_spec.rb" timestamp="1562678077941">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/modeling" timestamp="1562986835261">
         <mark key="[" line="18" column="38" />
         <mark key="]" line="17" column="13" />
         <mark key="." line="17" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/projects.rb" timestamp="1562858403669">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/models/organization_spec.rb" timestamp="1562684544455">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="16" column="48" />
+        <mark key="." line="16" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000006_create_todos.rb" timestamp="1562682288766">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/javascript/components/HelloWorld.js" timestamp="1561995666834">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/20190713041738_create_activities.rb" timestamp="1562991545948">
         <mark key="[" line="7" column="48" />
@@ -51,33 +281,253 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/member.rb" timestamp="1562990392897" />
+      <file name="$USER_HOME$/workspace/chrogo/voyage/config/initializers/cors.rb" timestamp="1561881325165">
+        <mark key="[" line="8" column="64" />
+        <mark key="]" line="8" column="64" />
+        <mark key="." line="8" column="64" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/webpack" timestamp="1562592283113">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/package.json" timestamp="1562423932562">
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/Userstamp.rb" timestamp="1562683120150">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="36" column="9" />
+        <mark key="." line="36" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/App.tsx" timestamp="1561875574822">
+        <mark key="[" line="5" column="75" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/config/global/app.yml" timestamp="1561862502947">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/20190713025211_create_members.rb" timestamp="1562986339789" />
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000001_devise_create_users.rb" timestamp="1562983213284">
-        <mark key="[" line="15" column="55" />
-        <mark key="]" line="15" column="55" />
-        <mark key="." line="15" column="55" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/user_teams.rb" timestamp="1562858419429">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000001_devise_create_users.rb" timestamp="1563004406019">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppMain.tsx" timestamp="1561864845699">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/controllers/tops_controller.rb" timestamp="1562490018167">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/rails_helper.rb" timestamp="1562856310998">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/.erdconfig" timestamp="1562991844442">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/development/projects.seeds.rb" timestamp="1562682164365">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/development/todos.seeds.rb" timestamp="1562338214279">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/Main.tsx" timestamp="1561829888241">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/group_member.rb" timestamp="1562992004923">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/rake" timestamp="1562592263711">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/reset" timestamp="1562986806977" />
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/Gemfile" timestamp="1563003405259">
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/parsers/logical_query_parser.rb" timestamp="1562254415617">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/treetops/project_filter.treetop" timestamp="1562250237450">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/development/users.seeds.rb" timestamp="1562683099258">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000004_create_teams.rb" timestamp="1562682274470">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/user_team.rb" timestamp="1562684194858">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/views/pages/index.html.slim" timestamp="1561905854403">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/Guardfile" timestamp="1562680889806">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="43" column="38" />
+        <mark key="." line="43" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/organization_memberships.rb" timestamp="1562858393160">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/spring" timestamp="1562592275809">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000003_create_todos.rb" timestamp="1562427720554">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/project.rb" timestamp="1562684499966">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000002_create_organizations.rb" timestamp="1563005392958">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/rspec" timestamp="1562592268706">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/views/organizations/show.html.slim" timestamp="1562489053534">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/lib/routes.ts" timestamp="1561827556736">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/rails" timestamp="1562592258024">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/Gemfile" timestamp="1563004415075">
         <mark key="[" line="25" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/assets/javascripts/application.js" timestamp="1561906643505">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/.back/organization.rb" timestamp="1562985398535" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/development/organizations.seeds.rb" timestamp="1562683421434">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/controllers/graphql_controller.rb" timestamp="1561906732126">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/config/environments/test.rb" timestamp="1562680511499">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/members.rb" timestamp="1562490260824">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/teams.rb" timestamp="1562858412072">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/organizations.seeds.rb" timestamp="1562428193079">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/client/app/Routes.tsx" timestamp="1562425151189">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/controllers/pages_controller.rb" timestamp="1561908749503">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/requests/users/passwords_spec.rb" timestamp="1561906567160">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/routing/users/passwords_routing_spec.rb" timestamp="1561906858408">
+        <mark key="[" line="4" column="57" />
+        <mark key="]" line="4" column="57" />
+        <mark key="." line="4" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/development/members.seeds.rb" timestamp="1562490323051">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/organization_member.rb" timestamp="1562992002108">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/requests/organizations_spec.rb" timestamp="1562859096972">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/mutations/add_project.rb" timestamp="1562339589818">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/.back/00000000000010_create_organizations.rb" timestamp="1562985522585" />
     </filemarks>
@@ -98,40 +548,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFkZF9pbmRleCA6b2JqZWN0aXZlcywgOmFuY2VzdHJ5Cg==</text>
+        <text encoding="base64">Z2VtICdkZXZpc2VfaW52aXRhYmxlJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0cmFja2VkCg==</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgICA6aW52aXRlZF9ieV90eXBlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIFB1YmxpY0FjdGl2aXR5OjpNb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyICA6aW52aXRlZF9ieV9pZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyICA6aW52aXRhdGlvbl9saW1pdCwgICAgICAgY29tbWVudDogJ+aLm+W+heWuueiqjeaXpeaZgicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0cmFja2VkCg==</text>
+        <text encoding="base64">ICAgICAgdC5kYXRldGltZSA6aW52aXRhdGlvbl9hY2NlcHRlZF9hdCwgY29tbWVudDogJ+aLm+W+heWuueiqjeaXpeaZgicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIFB1YmxpY0FjdGl2aXR5OjpNb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgdC5kYXRldGltZSA6aW52aXRhdGlvbl9zZW50X2F0LCAgICAgY29tbWVudDogJ+aLm+W+hemAgeS/oeaXpeaZgicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdC5kYXRldGltZSA6aW52aXRhdGlvbl9jcmVhdGVkX2F0LCAgY29tbWVudDogJ+aLm+W+heaXpeaZgicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0cmFja2VkCg==</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgICA6aW52aXRhdGlvbl90b2tlbiwgICAgICAgY29tbWVudDogJ+aLm+W+heeUqOODiOODvOOCr+ODsycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
