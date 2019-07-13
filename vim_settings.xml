@@ -222,7 +222,7 @@
         <mark key="]" line="7" column="42" />
         <mark key="." line="7" column="42" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1562858818716">
+      <file name="/GraphQL.result.json" timestamp="1562968635282">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/config/initializers/record_with_operator.rb" timestamp="1562681964023">
@@ -337,10 +337,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000001_devise_create_users.rb" timestamp="1562773975962">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000001_devise_create_users.rb" timestamp="1562983213284">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/AppMain.tsx" timestamp="1561864845699">
         <mark key="[" line="0" column="26" />
@@ -456,7 +456,6 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000002_create_organizations.rb" timestamp="1562682269736">
-        <mark key="[" line="10" column="26" />
         <mark key="]" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
@@ -596,11 +595,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/workspace/chrogo/getting_things_done/spec/models/application_record_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>時刻</text>
       </register>
       <register name="-" type="4">
-        <text>Tops</text>
+        <text>時刻</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
@@ -609,25 +608,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmxhc3RfbmFtZSwgIG51bGw6IGZhbHNlLCBkZWZhdWx0OiAnJywgY29tbWVudDogJ+awj+WQjScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVyc1snaG9zdCddID0gJ2V4YW1wbGUuY29tJwo=</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmZpcnN0X25hbWUsIG51bGw6IGZhbHNlLCBkZWZhdWx0OiAnJywgY29tbWVudDogJ+Wnk+WQjScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSBkbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDpvcmdhbml6YXRpb24pIHsgY3JlYXRlKDpvcmdhbml6YXRpb24pIH0K</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZXIgeyBnZW5lcmF0ZSA6dXBkYXRlciB9Cg==</text>
+        <text encoding="base64">ICAgICAgaGVhZGVyc1snaG9zdCddID0gJ2V4YW1wbGUuY29tJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyZWF0b3IgeyBnZW5lcmF0ZSA6Y3JlYXRvciB9Cg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZSBkbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0KDpvcmdhbml6YXRpb24pIHsgY3JlYXRlKDpvcmdhbml6YXRpb24pIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHVwZGF0ZXIgeyBnZW5lcmF0ZSA6dXBkYXRlciB9Cg==</text>
