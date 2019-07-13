@@ -8,10 +8,10 @@
         <mark key="]" line="20" column="46" />
         <mark key="." line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/users.rb" timestamp="1562858969644">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="25" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/users.rb" timestamp="1562984666782">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/support/devise.rb" timestamp="1562858977496">
         <mark key="[" line="31" column="39" />
@@ -32,10 +32,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/user.rb" timestamp="1562857292394">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/user.rb" timestamp="1562984619344">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/private_team.rb" timestamp="1562597459213">
         <mark key="[" line="0" column="20" />
@@ -595,11 +595,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/workspace/chrogo/getting_things_done/spec/models/application_record_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>時刻</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>時刻</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
@@ -608,28 +608,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmxhc3RfbmFtZSwgIG51bGw6IGZhbHNlLCBkZWZhdWx0OiAnJywgY29tbWVudDogJ+awj+WQjScK</text>
+        <text encoding="base64">ICAgICMgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmZpcnN0X25hbWUsIG51bGw6IGZhbHNlLCBkZWZhdWx0OiAnJywgY29tbWVudDogJ+Wnk+WQjScK</text>
+        <text encoding="base64">ICAgICMgICBvcmdhbml6YXRpb24udXNlcnMgPDwgdXNlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICBvcmdhbml6YXRpb24gPSBGYWN0b3J5Qm90LmNyZWF0ZSg6b3JnYW5pemF0aW9uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICMgdHJhaXQgOndpdGhfb3JnYW5pemF0aW9uIGRvIHx1c2VyfAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVyc1snaG9zdCddID0gJ2V4YW1wbGUuY29tJwo=</text>
+        <text encoding="base64">ICBjYXR0cl9hY2Nlc3NvciA6Y3VycmVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSBkbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDpvcmdhbml6YXRpb24pIHsgY3JlYXRlKDpvcmdhbml6YXRpb24pIH0K</text>
+        <text encoding="base64">ICBoYXNfYW5kX2JlbG9uZ3NfdG9fbWFueSA6dGVhbXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZXIgeyBnZW5lcmF0ZSA6dXBkYXRlciB9Cg==</text>
+        <text encoding="base64">ICBoYXNfYW5kX2JlbG9uZ3NfdG9fbWFueSA6cmdhbml6YXRpb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
