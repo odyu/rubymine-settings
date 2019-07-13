@@ -301,6 +301,9 @@
         <mark key="]" line="36" column="9" />
         <mark key="." line="36" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/20190713094134_create_namespaces.rb" timestamp="1563010909596">
+        <mark key="[" line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/App.tsx" timestamp="1561875574822">
         <mark key="[" line="5" column="75" />
         <mark key="]" line="17" column="0" />
