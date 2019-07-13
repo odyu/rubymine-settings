@@ -181,16 +181,20 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/organization.rb" timestamp="1562684485792">
-        <mark key="[" line="3" column="21" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/organization.rb" timestamp="1562985450372">
+        <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/development/memberships.seeds.rb" timestamp="1562682169617">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/20190713023616_create_organizations.rb" timestamp="1562985584047">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000005_create_projects.rb" timestamp="1562858433954">
         <mark key="[" line="11" column="26" />
@@ -489,6 +493,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/.back/organization.rb" timestamp="1562985398535" />
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000007_create_organization_memberships.rb" timestamp="1562682295697">
         <mark key="[" line="9" column="26" />
       </file>
@@ -578,6 +583,7 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/.back/00000000000010_create_organizations.rb" timestamp="1562985522585" />
     </filemarks>
     <jumps>
       <jump line="2" column="0" filename="$USER_HOME$/workspace/chrogo/corporate-site/src/containers/Home.jsx" />
@@ -596,7 +602,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -605,31 +611,31 @@
         <text encoding="base64">XDxleHBlY3RcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmRlc2NyaXB0aW9uLCBudWxsOiBmYWxzZSwgZGVmYXVsdDogJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgICBvcmdhbml6YXRpb24udXNlcnMgPDwgdXNlcgo=</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOm5hbWUsICAgICAgICBudWxsOiBmYWxzZSwgZGVmYXVsdDogJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgICBvcmdhbml6YXRpb24gPSBGYWN0b3J5Qm90LmNyZWF0ZSg6b3JnYW5pemF0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOnNsdWcsICAgICAgICBudWxsOiBmYWxzZSwgZGVmYXVsdDogJycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgdHJhaXQgOndpdGhfb3JnYW5pemF0aW9uIGRvIHx1c2VyfAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYXR0cl9hY2Nlc3NvciA6Y3VycmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBoYXNfYW5kX2JlbG9uZ3NfdG9fbWFueSA6dGVhbXMK</text>
+        <text encoding="base64">ICAgICMgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoYXNfYW5kX2JlbG9uZ3NfdG9fbWFueSA6cmdhbml6YXRpb25zCg==</text>
+        <text encoding="base64">ICAgICMgICBvcmdhbml6YXRpb24udXNlcnMgPDwgdXNlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
