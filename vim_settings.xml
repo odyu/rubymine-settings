@@ -68,10 +68,10 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/reset" timestamp="1562986806977" />
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/Gemfile" timestamp="1562994709564">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/Gemfile" timestamp="1563003405259">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/.back/organization.rb" timestamp="1562985398535" />
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/organization_member.rb" timestamp="1562992002108">
