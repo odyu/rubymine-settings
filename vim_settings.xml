@@ -29,6 +29,11 @@
         <mark key="]" line="28" column="25" />
         <mark key="." line="28" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/mutations/add_organization.rb" timestamp="1563106324718">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/support/devise.rb" timestamp="1563035214126">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="31" column="39" />
@@ -315,7 +320,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/types/query_type_spec.rb" timestamp="1563104139743">
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/types/query_type_spec.rb" timestamp="1563106153299">
         <mark key="[" line="176" column="28" />
         <mark key="]" line="187" column="0" />
         <mark key="." line="187" column="0" />
@@ -859,41 +864,41 @@
       <jump line="50" column="23" filename="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/query_type.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcS5yZXN1bHQK</text>
+      <register name="&quot;" type="4">
+        <text>post</text>
       </register>
       <register name="-" type="4">
-        <text>Group</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcS5yZXN1bHQK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogZGVmaW5lIHJldHVybiBmaWVsZHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcSA9IGN1cnJlbnRfdXNlci5vcmdhbml6YXRpb25zLnJhbnNhY2soZmlsdGVyLnRvX3JhbnNhY2tfcXVlcnkpCg==</text>
+        <text encoding="base64">ICAgICAgcS5yZXN1bHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcSA9IGN1cnJlbnRfdXNlci5vcmdhbml6YXRpb25zLnJhbnNhY2soZmlsdGVyLnRvX3JhbnNhY2tfcXVlcnkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBxLnJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICBbCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIyBxID0gY3VycmVudF91c2VyLmdyb3Vwcy5yYW5zYWNrKGZpbHRlci50b19yYW5zYWNrX3F1ZXJ5KS5yZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgIyBxLnJlc3VsdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIwo=</text>
+        <text encoding="base64">ICAgICAgIyBxID0gY3VycmVudF91c2VyLmdyb3Vwcy5yYW5zYWNrKGZpbHRlci50b19yYW5zYWNrX3F1ZXJ5KS5yZXN1bHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
