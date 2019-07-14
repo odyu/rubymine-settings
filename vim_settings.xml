@@ -29,10 +29,11 @@
         <mark key="]" line="28" column="25" />
         <mark key="." line="28" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/mutations/add_organization.rb" timestamp="1563106324718">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/mutations/add_organization.rb" timestamp="1563109699700">
+        <mark key="[" line="28" column="75" />
+        <mark key="]" line="28" column="75" />
+        <mark key="." line="28" column="75" />
+        <mark key="^" line="28" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/support/devise.rb" timestamp="1563035214126">
         <mark key="[" line="6" column="27" />
@@ -104,7 +105,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/mutation_type.rb" timestamp="1563091979151">
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/mutation_type.rb" timestamp="1563108747920">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -208,6 +209,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/validation_error_type.rb" timestamp="1563109216667">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/organizations.rb" timestamp="1563077924682">
         <mark key="[" line="5" column="55" />
         <mark key="]" line="5" column="0" />
@@ -226,6 +232,10 @@
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/base_input_object.rb" timestamp="1563096979041">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/types/mutation_type_spec.rb" timestamp="1563109186195">
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/pages/TaskList/index.tsx" timestamp="1561865623713">
         <mark key="[" line="8" column="6" />
@@ -258,10 +268,10 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/getting_things_done_schema.rb" timestamp="1562775311186">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/getting_things_done_schema.rb" timestamp="1563107566907">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/components/Layout.tsx" timestamp="1561830426367">
         <mark key="[" line="11" column="2" />
@@ -280,6 +290,10 @@
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/organization.rb" timestamp="1563092456780">
+        <mark key="]" line="3" column="82" />
+        <mark key="." line="3" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/development/memberships.seeds.rb" timestamp="1562682169617">
         <mark key="[" line="5" column="0" />
@@ -320,8 +334,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/types/query_type_spec.rb" timestamp="1563106153299">
-        <mark key="[" line="176" column="28" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/types/query_type_spec.rb" timestamp="1563109034238">
+        <mark key="[" line="78" column="46" />
         <mark key="]" line="187" column="0" />
         <mark key="." line="187" column="0" />
         <mark key="^" line="187" column="8" />
@@ -469,6 +483,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/requests/namespaces_spec.rb" timestamp="1563089366085">
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/objectives.rb" timestamp="1563079538452">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="0" />
@@ -575,12 +593,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/reset" timestamp="1563077331549">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/query_type.rb" timestamp="1563104056522">
         <mark key="'" line="51" column="23" />
         <mark key="[" line="37" column="0" />
@@ -659,6 +671,11 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/support/graphql_matchers.rb" timestamp="1563089718703" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/add_organization_attributes_input_type.rb" timestamp="1563109752408">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/models/user_spec.rb" timestamp="1563089335089">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="6" column="46" />
@@ -713,6 +730,7 @@
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/group_todos.rb" timestamp="1563079893191">
         <mark key="[" line="3" column="36" />
       </file>
+      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/graphql-1.9.6/lib/graphql/schema/resolver.rb" timestamp="1563108450799" />
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/development/groups.seeds.rb" timestamp="1563078374272">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="5" column="0" />
@@ -759,12 +777,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/support/json_expectations.rb" timestamp="1563094889466">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="60" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/organizations.seeds.rb" timestamp="1562428193079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -795,7 +807,7 @@
         <mark key="]" line="4" column="57" />
         <mark key="." line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/support/graphql.rb" timestamp="1563090787571">
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/support/graphql.rb" timestamp="1563108710302">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -828,18 +840,6 @@
         <mark key="]" line="46" column="27" />
         <mark key="." line="46" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/group_objective.rb" timestamp="1563072299393">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="3" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/string_filter_input_type.rb" timestamp="1563097049662">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="15" column="37" />
-        <mark key="^" line="15" column="37" />
-        <mark key="." line="15" column="37" />
-      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/mutations/add_project.rb" timestamp="1562339589818">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="4" column="11" />
@@ -865,40 +865,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>post</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZGVmaW5lIHJldHVybiBmaWVsZHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcS5yZXN1bHQK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcSA9IGN1cnJlbnRfdXNlci5vcmdhbml6YXRpb25zLnJhbnNhY2soZmlsdGVyLnRvX3JhbnNhY2tfcXVlcnkpCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRlZiBtZXNzYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwYXRoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIyBxLnJlc3VsdAo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyBxID0gY3VycmVudF91c2VyLmdyb3Vwcy5yYW5zYWNrKGZpbHRlci50b19yYW5zYWNrX3F1ZXJ5KS5yZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgaXRfYmVoYXZlc19saWtlICdhIEdyYXBoUUwgUXVlcnknCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
