@@ -212,7 +212,7 @@
       <file name="/GraphQL.result.json" timestamp="1563076665662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/types/organization_type_spec.rb" timestamp="1563153224460">
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/types/organization_type_spec.rb" timestamp="1563287986424">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -556,10 +556,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/types/current_user_type_spec.rb" timestamp="1563206670521">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/types/current_user_type_spec.rb" timestamp="1563287964629">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/task.rb" timestamp="1563073348443">
         <mark key="[" line="2" column="17" />
@@ -857,10 +857,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>query</text>
+        <text>.to_s</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>.to_s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
