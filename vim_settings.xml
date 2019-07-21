@@ -8,6 +8,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/client/lib/fragmentTypes.json" timestamp="1563722754897">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/users.rb" timestamp="1563620928186">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -43,6 +48,9 @@
         <mark key="]" line="15" column="2" />
         <mark key="." line="15" column="2" />
         <mark key="^" line="26" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/namespaces.rb" timestamp="1563589964421">
+        <mark key="[" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/mutation_type.rb" timestamp="1563113085706">
         <mark key="[" line="4" column="65" />
@@ -114,6 +122,9 @@
         <mark key="]" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/models/group_objective_spec.rb" timestamp="1563589171676">
+        <mark key="[" line="13" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/requests/users/confirmations_spec.rb" timestamp="1561906610408">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -128,6 +139,9 @@
         <mark key="[" line="4" column="47" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/GraphQL.variables.json" timestamp="1563584563168">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/.rubocop.yml" timestamp="1562856920351">
         <mark key="[" line="64" column="0" />
@@ -175,10 +189,14 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/lib/tasks/gql/schema.rake" timestamp="1562172597219">
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="42" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/lib/tasks/gql/schema.rake" timestamp="1563722286454">
+        <mark key="[" line="11" column="81" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/group_tasks.rb" timestamp="1563079851622">
+        <mark key="[" line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/organization_members.rb" timestamp="1563091891959">
+        <mark key="[" line="3" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/user_namespace_type.rb" timestamp="1563584156552">
         <mark key="[" line="4" column="31" />
@@ -205,6 +223,9 @@
         <mark key="]" line="11" column="2" />
         <mark key="." line="11" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/group_projects.rb" timestamp="1563079861988">
+        <mark key="[" line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/organization.rb" timestamp="1563624532210">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="2" />
@@ -220,6 +241,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/objective_type.rb" timestamp="1563126780165">
+        <mark key="[" line="3" column="41" />
+      </file>
+      <file name="/a.sql" timestamp="1563572070398">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/.editorconfig" timestamp="1563101587933">
         <mark key="[" line="16" column="0" />
@@ -254,6 +281,12 @@
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1563588174875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/types/organization_type_spec.rb" timestamp="1563624146029">
+        <mark key="[" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/client/lib/apolloClient.ts" timestamp="1563640711504">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="2" column="35" />
@@ -274,6 +307,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/29557cd5-6c03-4110-9a44-423c170b4a68/console.sql" timestamp="1563079184934">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/user_todos.rb" timestamp="1563079883083">
+        <mark key="[" line="3" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/profile_interface_type.rb" timestamp="1563638235114">
         <mark key="[" line="6" column="11" />
@@ -300,6 +339,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/models/namespace_spec.rb" timestamp="1563589406540">
+        <mark key="[" line="5" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/20190713041738_create_activities.rb" timestamp="1562991545948">
         <mark key="[" line="7" column="48" />
@@ -482,6 +524,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/user_objectives.rb" timestamp="1563079963774">
+        <mark key="[" line="3" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/user_profile.rb" timestamp="1563620988055">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="2" />
@@ -506,6 +551,9 @@
         <mark key="[" line="3" column="20" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1563635967831">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/organizations.seeds.rb" timestamp="1562428193079">
         <mark key="[" line="0" column="0" />
@@ -539,6 +587,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/lib/tasks/gql/fragment_types.rake" timestamp="1563722689655">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/organization_member.rb" timestamp="1563635848733">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="26" />
@@ -564,6 +617,9 @@
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/models/member_spec.rb" timestamp="1563589392042">
+        <mark key="[" line="4" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/groups.rb" timestamp="1563078390779">
         <mark key="[" line="6" column="48" />
@@ -646,6 +702,9 @@
         <mark key="]" line="52" column="25" />
         <mark key="." line="52" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/models/group_spec.rb" timestamp="1563589276474">
+        <mark key="[" line="18" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/javascript/packs/hello_react_one.jsx" timestamp="1561994964555">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -665,6 +724,9 @@
         <mark key="[" line="2" column="17" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/base_input_object.rb" timestamp="1563096979041">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/voyage/client/src/pages/TaskList/index.tsx" timestamp="1561865623713">
         <mark key="[" line="8" column="6" />
@@ -690,6 +752,9 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/models/todo_spec.rb" timestamp="1563589470483">
+        <mark key="[" line="4" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/migrate/00000000000005_create_projects.rb" timestamp="1562858433954">
         <mark key="[" line="11" column="26" />
@@ -729,6 +794,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/group_objectives.rb" timestamp="1563079933098">
+        <mark key="[" line="3" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/setup" timestamp="1562592272292">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -738,6 +806,9 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/group_members.rb" timestamp="1563103418506">
+        <mark key="[" line="3" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/bin/webpack-dev-server" timestamp="1562592286788">
         <mark key="[" line="1" column="0" />
@@ -788,10 +859,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/package.json" timestamp="1563639850818">
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="32" column="29" />
-        <mark key="." line="32" column="29" />
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/package.json" timestamp="1563722783917">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/models/todo.rb" timestamp="1563074092714">
         <mark key="[" line="3" column="0" />
@@ -856,6 +927,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/models/group_project_spec.rb" timestamp="1563589324230">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/organization_type.rb" timestamp="1563625357194">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -871,6 +945,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/models/user_objective_spec.rb" timestamp="1563589499323">
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/db/seeds/development/users.seeds.rb" timestamp="1563634779340">
         <mark key="[" line="5" column="44" />
@@ -929,6 +1006,9 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/factories/group_todos.rb" timestamp="1563079893191">
+        <mark key="[" line="3" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/chrogo/getting_things_done/spec/graphql/types/namespace_type_spec.rb" timestamp="1563607867262">
         <mark key="[" line="13" column="32" />
@@ -1020,44 +1100,44 @@
       <jump line="17" column="23" filename="$USER_HOME$/workspace/chrogo/getting_things_done/app/graphql/types/query_type.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>constants</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ewogICJfX3NjaGVtYSI6IHsKICAgICJ0eXBlcyI6IFsKICAgICAgewogICAgICAgICJraW5kIjogIlNDQUxBUiIsCiAgICAgICAgIm5hbWUiOiAiQm9vbGVhbiIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJTQ0FMQVIiLAogICAgICAgICJuYW1lIjogIlN0cmluZyIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAogICAgICAgICJuYW1lIjogIlF1ZXJ5IiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIk9CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiQ3VycmVudFVzZXIiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiU0NBTEFSIiwKICAgICAgICAibmFtZSI6ICJJbnQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiSU5QVVRfT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJPYmplY3RpdmVGaWx0ZXJzSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiSU5QVVRfT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJTdHJpbmdGaWx0ZXJzSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJVc2VyIiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIk9CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiVXNlckNvbm5lY3Rpb24iLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJVc2VyRWRnZSIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJJTlBVVF9PQkpFQ1QiLAogICAgICAgICJuYW1lIjogIlVzZXJGaWx0ZXJzSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJPcmdhbml6YXRpb25Db25uZWN0aW9uIiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIk9CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiT3JnYW5pemF0aW9uRWRnZSIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJFTlVNIiwKICAgICAgICAibmFtZSI6ICJPcmdhbml6YXRpb25TdGF0ZUVudW0iLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiSU5QVVRfT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJPcmdhbml6YXRpb25GaWx0ZXJzSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJHcm91cCIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAogICAgICAgICJuYW1lIjogIkdyb3VwQ29ubmVjdGlvbiIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAogICAgICAgICJuYW1lIjogIkdyb3VwRWRnZSIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJJTlBVVF9PQkpFQ1QiLAogICAgICAgICJuYW1lIjogIkdyb3VwRmlsdGVyc0lucHV0IiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIk9CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiTXV0YXRpb24iLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJBZGRPcmdhbml6YXRpb25QYXlsb2FkIiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIk9CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiVmFsaWRhdGlvbkVycm9yIiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIklOUFVUX09CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiQWRkT3JnYW5pemF0aW9uSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiSU5QVVRfT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJBZGRPcmdhbml6YXRpb25BdHRyaWJ1dGVzSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJBZGRHcm91cFBheWxvYWQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiSU5QVVRfT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJBZGRHcm91cElucHV0IiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIklOUFVUX09CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiQWRkR3JvdXBBdHRyaWJ1dGVzSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJfX1NjaGVtYSIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAogICAgICAgICJuYW1lIjogIl9fVHlwZSIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAogICAgICAgICJuYW1lIjogIl9fRmllbGQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJfX0RpcmVjdGl2ZSIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAogICAgICAgICJuYW1lIjogIl9fRW51bVZhbHVlIiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIk9CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiX19JbnB1dFZhbHVlIiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIkVOVU0iLAogICAgICAgICJuYW1lIjogIl9fVHlwZUtpbmQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiRU5VTSIsCiAgICAgICAgIm5hbWUiOiAiX19EaXJlY3RpdmVMb2NhdGlvbiIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0KICAgIF0KICB9Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>constants</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewogICJfX3NjaGVtYSI6IHsKICAgICJ0eXBlcyI6IFsKICAgICAgewogICAgICAgICJraW5kIjogIlNDQUxBUiIsCiAgICAgICAgIm5hbWUiOiAiQm9vbGVhbiIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJTQ0FMQVIiLAogICAgICAgICJuYW1lIjogIlN0cmluZyIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAogICAgICAgICJuYW1lIjogIlF1ZXJ5IiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIk9CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiQ3VycmVudFVzZXIiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiU0NBTEFSIiwKICAgICAgICAibmFtZSI6ICJJbnQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiSU5QVVRfT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJPYmplY3RpdmVGaWx0ZXJzSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiSU5QVVRfT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJTdHJpbmdGaWx0ZXJzSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJVc2VyIiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIk9CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiVXNlckNvbm5lY3Rpb24iLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJVc2VyRWRnZSIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJJTlBVVF9PQkpFQ1QiLAogICAgICAgICJuYW1lIjogIlVzZXJGaWx0ZXJzSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJPcmdhbml6YXRpb25Db25uZWN0aW9uIiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIk9CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiT3JnYW5pemF0aW9uRWRnZSIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJFTlVNIiwKICAgICAgICAibmFtZSI6ICJPcmdhbml6YXRpb25TdGF0ZUVudW0iLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiSU5QVVRfT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJPcmdhbml6YXRpb25GaWx0ZXJzSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJHcm91cCIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAogICAgICAgICJuYW1lIjogIkdyb3VwQ29ubmVjdGlvbiIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAogICAgICAgICJuYW1lIjogIkdyb3VwRWRnZSIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJJTlBVVF9PQkpFQ1QiLAogICAgICAgICJuYW1lIjogIkdyb3VwRmlsdGVyc0lucHV0IiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIk9CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiTXV0YXRpb24iLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJBZGRPcmdhbml6YXRpb25QYXlsb2FkIiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIk9CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiVmFsaWRhdGlvbkVycm9yIiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIklOUFVUX09CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiQWRkT3JnYW5pemF0aW9uSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiSU5QVVRfT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJBZGRPcmdhbml6YXRpb25BdHRyaWJ1dGVzSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJBZGRHcm91cFBheWxvYWQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiSU5QVVRfT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJBZGRHcm91cElucHV0IiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIklOUFVUX09CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiQWRkR3JvdXBBdHRyaWJ1dGVzSW5wdXQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJfX1NjaGVtYSIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAogICAgICAgICJuYW1lIjogIl9fVHlwZSIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAogICAgICAgICJuYW1lIjogIl9fRmllbGQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiT0JKRUNUIiwKICAgICAgICAibmFtZSI6ICJfX0RpcmVjdGl2ZSIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAogICAgICAgICJuYW1lIjogIl9fRW51bVZhbHVlIiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIk9CSkVDVCIsCiAgICAgICAgIm5hbWUiOiAiX19JbnB1dFZhbHVlIiwKICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwKICAgICAgfSwKICAgICAgewogICAgICAgICJraW5kIjogIkVOVU0iLAogICAgICAgICJuYW1lIjogIl9fVHlwZUtpbmQiLAogICAgICAgICJwb3NzaWJsZVR5cGVzIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgImtpbmQiOiAiRU5VTSIsCiAgICAgICAgIm5hbWUiOiAiX19EaXJlY3RpdmVMb2NhdGlvbiIsCiAgICAgICAgInBvc3NpYmxlVHlwZXMiOiBudWxsCiAgICAgIH0KICAgIF0KICB9Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAibmFtZSI6ICJPYmplY3RpdmVFZGdlIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW50cm9zcGVjdGlvbkZyYWdtZW50TWF0Y2hlciB9IGZyb20gImFwb2xsby1ib29zdCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAicG9zc2libGVUeXBlcyI6IG51bGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnJhZ21lbnRNYXRjaGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAibmFtZSI6ICJQYWdlSW5mbyIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEluYm94SWNvbiBmcm9tICJAbWF0ZXJpYWwtdWkvaWNvbnMvSW5ib3giOwo=</text>
+        <text encoding="base64">ICAgICAgICAia2luZCI6ICJPQkpFQ1QiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IERhc2hib2FyZEljb24gZnJvbSAiQG1hdGVyaWFsLXVpL2ljb25zL0Rhc2hib2FyZCI7Cg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1075,6 +1155,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>:w</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
