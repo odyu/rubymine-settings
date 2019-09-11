@@ -26,6 +26,7 @@
       <mapping pattern="sync-stop" type="PLAIN_TEXT" />
       <mapping pattern=".simplecov" type="PLAIN_TEXT" />
       <mapping pattern="db/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="rspec" type="PLAIN_TEXT" />
       <mapping pattern=".railsrc" type="PLAIN_TEXT" />
       <mapping pattern="scripts/Makefile" type="PLAIN_TEXT" />
