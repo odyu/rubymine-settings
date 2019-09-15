@@ -28,6 +28,7 @@
       <mapping pattern="db/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="rspec" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".railsrc" type="PLAIN_TEXT" />
       <mapping pattern="scripts/Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".GoogleCloudStorageFile%3Agcs_file%3Aprocessed%2F2%2F21_M.mp420180130-30710-1nnhz4" type="PLAIN_TEXT" />
