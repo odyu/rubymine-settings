@@ -19,10 +19,10 @@
       <mapping pattern="bump" type="PLAIN_TEXT" />
       <mapping pattern="guard" type="PLAIN_TEXT" />
       <mapping pattern="docker/app/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".erdconfig" type="PLAIN_TEXT" />
       <mapping pattern="start" type="PLAIN_TEXT" />
       <mapping pattern="modeling" type="PLAIN_TEXT" />
       <mapping pattern="rubocop" type="PLAIN_TEXT" />
-      <mapping pattern=".erdconfig" type="PLAIN_TEXT" />
       <mapping pattern="sync-stop" type="PLAIN_TEXT" />
       <mapping pattern=".simplecov" type="PLAIN_TEXT" />
       <mapping pattern="db/Dockerfile" type="PLAIN_TEXT" />
