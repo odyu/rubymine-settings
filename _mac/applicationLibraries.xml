@@ -4299,6 +4299,25 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/selenium-webdriver-3.142.6/lib" />
       </SOURCES>
     </library>
+    <library name="serviceworker-rails (v0.6.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/serviceworker-rails-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/serviceworker-rails-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/serviceworker-rails-0.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/serviceworker-rails-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/serviceworker-rails-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/serviceworker-rails-0.6.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/serviceworker-rails-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/serviceworker-rails-0.6.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="shell (v0.7, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
