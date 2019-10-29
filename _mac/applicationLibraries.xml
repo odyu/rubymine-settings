@@ -4433,6 +4433,31 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/slim-4.0.1/benchmarks" />
       </excluded>
     </library>
+    <library name="slim (v4.0.1, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/doc" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/doc" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/doc" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-4.0.1/benchmarks" />
+      </excluded>
+    </library>
     <library name="slim-rails (v3.2.0, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4450,6 +4475,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/slim-rails-3.2.0/test" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/slim-rails-3.2.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="slim-rails (v3.2.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-rails-3.2.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-rails-3.2.0/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-rails-3.2.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-rails-3.2.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-rails-3.2.0/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-rails-3.2.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-rails-3.2.0/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/slim-rails-3.2.0/gemfiles" />
       </excluded>
     </library>
     <library name="spring (v2.1.0, rbenv: 2.6.3) [gem]" type="rubylib">
@@ -4652,6 +4696,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/temple-0.8.1/test" />
+      </excluded>
+    </library>
+    <library name="temple (v0.8.2, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/temple-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/temple-0.8.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/temple-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/temple-0.8.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/temple-0.8.2/test" />
       </excluded>
     </library>
     <library name="test-unit (v3.2.9, rbenv: 2.6.3) [gem]" type="rubylib">
