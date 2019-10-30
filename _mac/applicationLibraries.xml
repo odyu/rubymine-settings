@@ -1640,6 +1640,17 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/graphiql-rails-1.7.0/config" />
       </excluded>
     </library>
+    <library name="graphql (v1.9.14, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-1.9.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-1.9.14/lib" />
+      </SOURCES>
+    </library>
     <library name="graphql (v1.9.6, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1673,6 +1684,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/graphql-batch-0.4.0/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/graphql-batch-0.4.0/examples" />
+      </excluded>
+    </library>
+    <library name="graphql-errors (v0.3.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-errors-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-errors-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-errors-0.3.0/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-errors-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-errors-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-errors-0.3.0/images" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-errors-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-errors-0.3.0/images" />
       </excluded>
     </library>
     <library name="graphql-preload (v2.1.0, rbenv: 2.6.3) [gem]" type="rubylib">
@@ -3268,6 +3298,22 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rack-2.0.7/test" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rack-2.0.7/contrib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rack-2.0.7/example" />
+      </excluded>
+    </library>
+    <library name="rack-cors (v1.0.3, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rack-cors-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rack-cors-1.0.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rack-cors-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rack-cors-1.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rack-cors-1.0.3/test" />
       </excluded>
     </library>
     <library name="rack-proxy (v0.6.5, rbenv: 2.6.3) [gem]" type="rubylib">
