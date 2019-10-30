@@ -1640,6 +1640,27 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/graphiql-rails-1.7.0/config" />
       </excluded>
     </library>
+    <library name="graphiql-rails (v1.7.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphiql-rails-1.7.0/app" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphiql-rails-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphiql-rails-1.7.0/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphiql-rails-1.7.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphiql-rails-1.7.0/app" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphiql-rails-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphiql-rails-1.7.0/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphiql-rails-1.7.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphiql-rails-1.7.0/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphiql-rails-1.7.0/config" />
+      </excluded>
+    </library>
     <library name="graphql (v1.9.14, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
