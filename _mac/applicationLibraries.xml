@@ -1720,6 +1720,17 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-1.9.14/lib" />
       </SOURCES>
     </library>
+    <library name="graphql (v1.9.15, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-1.9.15/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql-1.9.15/lib" />
+      </SOURCES>
+    </library>
     <library name="graphql (v1.9.6, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1788,6 +1799,33 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/graphql-preload-2.1.0/bin" />
+      </excluded>
+    </library>
+    <library name="graphql_devise (v0.6.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/app" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/config" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/app" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/config" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/config" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/graphql_devise-0.6.0/gemfiles" />
       </excluded>
     </library>
     <library name="guard (v2.15.0, rbenv: 2.6.3) [gem]" type="rubylib">
