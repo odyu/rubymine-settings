@@ -1,6 +1,7 @@
 <application>
   <component name="RailsApplicationSettings">
-    <option name="wizardRailsFacetPreconfigureDBName" value="mysql" />
+    <option name="wizardRailsFacetPreconfigureDBName" value="postgresql" />
+    <option name="wizardRailsFacetPreconfigureSkipTUnitFiles" value="true" />
     <option name="wizardRailsFacetTemplates">
       <array>
         <option value="" />
