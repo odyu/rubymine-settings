@@ -571,6 +571,24 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/devise-4.7.3/config" />
       </excluded>
     </library>
+    <library name="devise-i18n (v1.9.2, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/devise-i18n-1.9.2/app" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/devise-i18n-1.9.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/devise-i18n-1.9.2/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/devise-i18n-1.9.2/app" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/devise-i18n-1.9.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/devise-i18n-1.9.2/rails" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/devise-i18n-1.9.2/rails" />
+      </excluded>
+    </library>
     <library name="did_you_mean (v1.3.0, rbenv: 2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
